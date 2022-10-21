@@ -32,3 +32,6 @@ patch:
     - {accept: bracketleft, send: Page_Up, when: paging}
     - {accept: bracketright, send: Page_Down, when: has_menu}
 
+  # 配置更换方案选单的快捷键
+  "switcher/hotkeys":
+    - F4
