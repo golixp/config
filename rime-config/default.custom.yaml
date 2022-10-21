@@ -1,0 +1,34 @@
+
+patch:
+  schema_list:
+    - {schema: double_pinyin_flypy}
+
+# 自定义配置
+
+  # 候选词数量
+  menu/page_size: 7
+
+  # 中文标点映射
+  punctuator/half_shape/+: 
+    '\' : '、'
+    '`' : '`'
+  
+  # 启用Caps_Lock键切换大小写
+  ascii_composer/good_old_caps_lock: true
+  # 中英文切换快捷键
+  # inline_ascii 临时编辑区编辑英文后回车上屏
+  # commit_text 已輸入的候選文字上屏並切換至西文輸入模式
+  # commit_code 已輸入的編碼字符上屏並切換至西文輸入模式
+  # noop 屏蔽該切換鍵
+  ascii_composer/switch_key:
+    Caps_Lock: commit_code
+    Shift_L: noop
+    Shift_R: noop
+    Control_L: noop
+    Control_R: commit_text
+
+  # []翻页
+  "key_binder/bindings":        
+    - {accept: bracketleft, send: Page_Up, when: paging}
+    - {accept: bracketright, send: Page_Down, when: has_menu}
+

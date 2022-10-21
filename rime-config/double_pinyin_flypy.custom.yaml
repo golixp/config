@@ -1,0 +1,27 @@
+patch:
+
+
+# 双拼方案自定义配置
+
+
+  # 输入双拼码的时候不转化为全拼码
+  translator/preedit_format: {}
+
+  switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: zh_simp
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    reset: 1
+    states: [ 。，, ．， ]
+
+
+  # 加入时间
+  engine/translators/+:
+    - lua_translator@datetime_translator
+
+  # 关闭笔画反查
+  recognizer/patterns/reverse_lookup: {}
