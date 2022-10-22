@@ -54,4 +54,4 @@ patch:
     initial_quality: 1
 
   # 载入用户自定义词库
-  translator/dictionary: total
+  translator/dictionary: custom_pinyin_dict

@@ -1,6 +1,6 @@
 # 用户自定义词库
 
-name: total
+name: custom_pinyin_dict
 version: "2022.10.23"
 sort: by_weight
 use_preset_vocabulary: true
