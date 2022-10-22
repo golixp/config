@@ -1,0 +1,7 @@
+# #固定词序单字
+name: custom_top
+version: "2022.10.23"
+sort: original
+use_preset_vocabulary: true
+
+的	d	1

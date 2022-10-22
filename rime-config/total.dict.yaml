@@ -1,0 +1,11 @@
+# 用户自定义词库
+
+name: total
+version: "2022.10.23"
+sort: by_weight
+use_preset_vocabulary: true
+
+# 导入.dict.yaml词典
+import_tables:
+  - luna_pinyin
+  - custom_top

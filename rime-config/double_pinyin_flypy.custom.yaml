@@ -49,3 +49,6 @@ patch:
     enable_completion: false
     enable_sentence: false
     initial_quality: 1
+
+  # 载入用户自定义词库
+  translator/dictionary: total
