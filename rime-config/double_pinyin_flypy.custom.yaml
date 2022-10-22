@@ -23,5 +23,14 @@ patch:
   engine/translators/+:
     - lua_translator@datetime_translator
 
-  # 关闭笔画反查
-  recognizer/patterns/reverse_lookup: {}
+  # 笔画反查配置"U"为触发按键
+  recognizer/patterns/reverse_lookup: "U[a-z]*'?$"
+  reverse_lookup/+:
+    dictionary: stroke
+    prefix: "U"
+    suffix: "'"
+    tips: ""
+    preedit_format:
+      - xlit/hspnz/一丨丿丶乙/
+    comment_format:
+      - xform/([nl])v/$1ü/
