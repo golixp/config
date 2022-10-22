@@ -34,3 +34,18 @@ patch:
       - xlit/hspnz/一丨丿丶乙/
     comment_format:
       - xform/([nl])v/$1ü/
+
+  # 载入用户自定义短语
+  engine/translators:
+   - punct_translator
+   - reverse_lookup_translator
+   - script_translator
+   - table_translator@custom_phrase
+   - table_translator
+  custom_phrase:
+    dictionary: ""
+    user_dict: custom_phrase
+    db_class: stabledb
+    enable_completion: false
+    enable_sentence: false
+    initial_quality: 1
