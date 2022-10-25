@@ -56,7 +56,7 @@ speller:
     - derive/^([jqxy])u$/$1v/
     - derive/^([aoe])([ioun])$/$1$1$2/
     # 模糊音设置
-    # - derive/in$/ing/
+    - derive/in$/ing/
     - derive/ing$/in/
     # - derive/en$/eng/
     # - derive/eng$/en/
