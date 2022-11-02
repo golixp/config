@@ -16,3 +16,4 @@
 #
 # no comment
 的	d	1
+了	l	1
