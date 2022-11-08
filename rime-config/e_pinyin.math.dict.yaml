@@ -1,0 +1,3206 @@
+# Rime dictionary   encoding: utf-8
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 多音字时，需手动添加注音，如：复校	fu jiao	1
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 于重新部署后生效
+#
+
+---
+name: e_pinyin.math
+version: "2019.5"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+超集	chao ji
+Leplace 变换	leplace bian huan
+n次方根	n ci fang gen
+Simpson 法则逼近法	simpson fa ze bi jin fa
+Sun-Ni 定理	sun ni ding li
+x 截距	x jie ju
+x 轴	x zhou
+x 坐标	x zuo biao
+y 轴	y zhou
+y 坐标	y zuo biao
+阿贝尔定理	a bei er ding li
+阿贝尔二项式定理	a bei er er xiang shi ding li
+阿贝尔-鲁菲尼定理	a bei er lu fei ni ding li
+阿贝尔曲线定理	a bei er qu xian ding li
+阿刺伯数字	a ci bo shu zi
+阿刺伯数字系统	a ci bo shu zi xi tong
+阿达马三圆定理	a da ma san yuan ding li
+阿蒂亚-辛格指标定理	a di ya xin ge zhi biao ding li
+阿尔泽拉-阿斯科利定理	a er ze la a si ke li ding li
+阿根图	a gen tu
+阿基米德原理	a ji mi de yuan li
+阿基米德中点定理	a ji mi de zhong dian ding li
+阿拉伯数字	a la bo shu zi
+阿氏图	a shi tu
+埃尔布朗定理	ai er bu lang ding li
+埃尔米特矩阵	ai er mi te ju zhen
+艾森斯坦定理	ai sen si tan ding li
+安达尔定理	an da er ding li
+鞍点	an dian
+凹多边形	ao duo bian xing
+凹向上的	ao xiang shang de
+凹向下的	ao xiang xia de
+凹性	ao xing
+奥尔定理	ao er ding li
+奥肯定律	ao ken ding lv
+八边形	ba bian xing
+八面体	ba mian ti
+八维空间	ba wei kong jian
+巴拿赫不动点定理	ba na he bu dong dian ding li
+巴拿赫-塔斯基悖论	ba na he ta si ji bei lun
+百分比	bai fen bi
+百分点	bai fen dian
+百分法	bai fen fa
+百分减少	bai fen jian shao
+百分率	bai fen lv
+百分数	bai fen shu
+百分数转小数	bai fen shu zhuan xiao shu
+百分位数	bai fen wei shu
+百分误差	bai fen wu cha
+百分增加	bai fen zeng jia
+摆线	bai xian
+半闭区间	ban bi qu jian
+半顶角	ban ding jiao
+半短轴	ban duan zhou
+半副轴	ban fu zhou
+半共轭轴	ban gong e zhou
+半贯轴	ban guan zhou
+半角	ban jiao
+半角公式	ban jiao gong shi
+半径	ban jing
+半开区间	ban kai qu jian
+半偏方面体锥	ban pian fang mian ti zhui
+半球	ban qiu
+半球体	ban qiu ti
+半群	ban qun
+半圆	ban yuan
+半长轴	ban chang zhou
+半主轴	ban zhu zhou
+伴随矩阵	ban sui ju zhen
+蚌线	bang xian
+棒形图	bang xing tu
+包含	bao han
+包含的	bao han de
+包含公理	bao han gong li
+包含性析取	bao han xing xi qu
+包含映射	bao han ying she
+贝尔纲定理	bei er gang ding li
+贝亚蒂定理	bei ya di ding li
+贝叶斯定理	bei ye si ding li
+贝祖定理	bei zu ding li
+备择假设	bei ze jia she
+倍角	bei jiao
+倍角公式	bei jiao gong shi
+倍数	bei shu
+悖论	bei lun
+被乘数	bei cheng shu
+被除数	bei chu shu
+被积分式	bei ji fen shi
+被积函数	bei ji han shu
+被加数	bei jia shu
+被减数	bei jian shu
+被开方数	bei kai fang shu
+被整除	bei zheng chu
+本迪克森-杜拉克定理	ben di ke sen du la ke ding li
+本利和	ben li he
+本原的	ben yuan de
+本原元定理	ben yuan yuan ding li
+本征根	ben zheng gen
+本征向量	ben zheng xiang liang
+本征值	ben zheng zhi
+逼近	bi jin
+逼近法	bi jin fa
+比例	bi li
+比例尺	bi li chi
+必然事件	bi ran shi jian
+必要条件	bi yao tiao jian
+毕氏三元数组	bi shi san yuan shu zu
+闭包	bi bao
+闭区间	bi qu jian
+闭凸区域	bi tu qu yu
+闭图像定理	bi tu xiang ding li
+边界	bian jie
+边界条件	bian jie tiao jian
+边形	bian xing
+边长	bian chang
+编码法	bian ma fa
+编码数据	bian ma shu ju
+扁椭球体	bian tuo qiu ti
+变差	bian cha
+变差系数	bian cha xi shu
+变分	bian fen
+变化率	bian hua lv
+变换	bian huan
+变量	bian liang
+变量的换	bian liang de huan
+变率	bian lv
+变数	bian shu
+变数变换	bian shu bian huan
+变数转换	bian shu zhuan huan
+变项	bian xiang
+变异性	bian yi xing
+变元	bian yuan
+遍历	bian li
+标度	biao du
+标记	biao ji
+标记有向图	biao ji you xiang tu
+标价	biao jia
+标量	biao liang
+标量乘积	biao liang cheng ji
+标量积	biao liang ji
+标量矩阵	biao liang ju zhen
+标准	biao zhun
+标准差	biao zhun cha
+标准常态分布	biao zhun chang tai fen bu
+标准单位	biao zhun dan wei
+标准方程	biao zhun fang cheng
+标准分	biao zhun fen
+标准偏离	biao zhun pian li
+标准式	biao zhun shi
+标准误差	biao zhun wu cha
+标准型	biao zhun xing
+标准正态分布	biao zhun zheng tai fen bu
+表格	biao ge
+表列式	biao lie shi
+表面	biao mian
+表面积	biao mian ji
+表面面积	biao mian mian ji
+表示	biao shi
+饼图	bing tu
+并行线	bing xing xian
+并集	bing ji
+并项	bing xiang
+波尔查诺-魏尔斯特拉斯定理	bo er cha nuo wei er si te la si ding li
+波兰表示法	bo lan biao shi fa
+剥壳法	bao ke fa
+伯恩斯坦定理	bo en si tan ding li
+伯努利分布	bo nu li fen bu
+伯努利试验	bo nu li shi yan
+伯特兰-切比雪夫定理	bo te lan qie bi xue fu ding li
+泊松分布	bo song fen bu
+博苏克-乌拉姆定理	bo su ke wu la mu ding li
+博特周期性定理	bo te zhou qi xing ding li
+博奕	bo yi
+补充方程	bu chong fang cheng
+补关系	bu guan xi
+补集	bu ji
+补交	bu jiao
+补角	bu jiao
+补位数字	bu wei shu zi
+补余	bu yu
+补余律	bu yu lv
+补元	bu yuan
+不包含	bu bao han
+不包含性析取	bu bao han xing xi qu
+不变的	bu bian de
+不变量	bu bian liang
+不变式	bu bian shi
+不变性	bu bian xing
+不变子空间	bu bian zi kong jian
+不纯一的	bu chun yi de
+不等	bu deng
+不等边三角形	bu deng bian san jiao xing
+不等号	bu deng hao
+不等式	bu deng shi
+不定的	bu ding de
+不定积分	bu ding ji fen
+不定积分法	bu ding ji fen fa
+不定系数	bu ding xi shu
+不定型	bu ding xing
+不定元	bu ding yuan
+不动点定理	bu dong dian ding li
+不分组数据	bu fen zu shu ju
+不公正钱币	bu gong zheng qian bi
+不公正骰子	bu gong zheng tou zi
+不共线　	bu gong xian 　
+不规则	bu gui ze
+不规则三角形	bu gui ze san jiao xing
+不尽根	bu jin gen
+不可能事件	bu ke neng shi jian
+不可逆矩阵	bu ke ni ju zhen
+不可约性	bu ke yue xing
+不连通的	bu lian tong de
+不连续	bu lian xu
+不连续点	bu lian xu dian
+不连续性	bu lian xu xing
+不失一般性	bu shi yi ban xing
+不同的	bu tong de
+不相的	bu xiang de
+不相交的	bu xiang jiao de
+不相交的集	bu xiang jiao de ji
+不相交集	bu xiang jiao ji
+不严格的那种	bu yan ge de na zhong
+不一致	bu yi zhi
+布尔乘积	bu er cheng ji
+布尔代数	bu er dai shu
+布尔多项式	bu er duo xiang shi
+布尔函数	bu er han shu
+布尔矩阵	bu er ju zhen
+布尔素理想定理	bu er su li xiang ding li
+布朗定理	bu lang ding li
+布劳威尔不动点定理	bu lao wei er bu dong dian ding li
+布列安桑定理	bu lie an sang ding li
+部分变	bu fen bian
+部分分式	bu fen fen shi
+部分分数	bu fen fen shu
+部分和	bu fen he
+部分积分	bu fen ji fen
+猜想	cai xiang
+采样定理	cai yang ding li
+参变量	can bian liang
+参差的	cen ci de
+参考角	can kao jiao
+参数	can shu
+参数方程	can shu fang cheng
+参数式	can shu shi
+残差	can cha
+测斜仪	ce xie yi
+叉积	cha ji
+插入	cha ru
+插值	cha zhi
+插值多项式	cha zhi duo xiang shi
+插值法	cha zhi fa
+差分方程	cha fen fang cheng
+差集	cha ji
+常量	chang liang
+常数	chang shu
+常数函数	chang shu han shu
+常数函数之导数	chang shu han shu zhi dao shu
+常数项	chang shu xiang
+常态分布	chang tai fen bu
+常微分方程	chang wei fen fang cheng
+常微分方程次数	chang wei fen fang cheng ci shu
+常项	chang xiang
+常用对数	chang yong dui shu
+超几何分布	chao ji he fen bu
+超空间	chao kong jian
+超越函数	chao yue han shu
+超越数	chao yue shu
+彻底事件	che di shi jian
+撤括号	che kuo hao
+陈氏定理	chen shi ding li
+陈述句	chen shu ju
+成本	cheng ben
+成比例	cheng bi li
+乘法	cheng fa
+乘法表	cheng fa biao
+乘法定律	cheng fa ding lv
+乘法交换性质	cheng fa jiao huan xing zhi
+乘法结合性质	cheng fa jie he xing zhi
+乘法逆元	cheng fa ni yuan
+乘方	cheng fang
+乘积	cheng ji
+乘幂的底数	cheng mi de di shu
+乘式	cheng shi
+乘数	cheng shu
+乘子	cheng zi
+尺规作图	chi gui zuo tu
+尺子	chi zi
+冲力	chong li
+冲量	chong liang
+充份接近	chong fen jie jin
+充份条件	chong fen tiao jian
+充份性	chong fen xing
+充要条件	chong yao tiao jian
+抽样	chou yang
+抽样分布	chou yang fen bu
+抽样理论	chou yang li lun
+出度	chu du
+出现次数	chu xian ci shu
+初等函数	chu deng han shu
+初等行变换	chu deng xing bian huan
+初等矩阵	chu deng ju zhen
+初等列变换	chu deng lie bian huan
+初等数学模型	chu deng shu xue mo xing
+初始近似值	chu shi jin si zhi
+初速度	chu su du
+初值	chu zhi
+初值条件	chu zhi tiao jian
+初值问题	chu zhi wen ti
+除法	chu fa
+除法算式	chu fa suan shi
+除式	chu shi
+除数	chu shu
+处理框	chu li kuang
+传递闭包	chuan di bi bao
+传递的	chuan di de
+传递性	chuan di xing
+垂径定理	chui jing ding li
+垂线	chui xian
+垂心	chui xin
+垂直	chui zhi
+垂直的	chui zhi de
+垂直分量	chui zhi fen liang
+垂直渐近线	chui zhi jian jin xian
+垂直平分线	chui zhi ping fen xian
+垂直平分线　	chui zhi ping fen xian 　
+垂直线	chui zhi xian
+垂直线　	chui zhi xian 　
+垂足	chui zu
+纯量	chun liang
+纯量乘法	chun liang cheng fa
+纯量积	chun liang ji
+纯量矩阵	chun liang ju zhen
+纯量三重积	chun liang san chong ji
+纯小数	chun xiao shu
+纯虚数	chun xu shu
+次摆　	ci bai 　
+次法线	ci fa xian
+次方	ci fang
+次方根	ci fang gen
+次根	ci gen
+次内摆线	ci nei bai xian
+次切线	ci qie xian
+次序	ci xu
+从基本原理求导数	cong ji ben yuan li qiu dao shu
+从属事件	cong shu shi jian
+存储单元	cun chu dan yuan
+存储论	cun chu lun
+存在公理	cun zai gong li
+存在量词	cun zai liang ci
+存在量词化	cun zai liang ci hua
+存在性证明	cun zai xing zheng ming
+错角	cuo jiao
+达布定理	da bu ding li
+怛速度	da su du
+打孔卡	da kong ka
+大弓形	da gong xing
+大弧	da hu
+大括号	da kuo hao
+大扇形	da shan xing
+大数定律	da shu ding lv
+大小	da xiao
+大于	da yu
+大于等于	da yu deng yu
+代换法	dai huan fa
+代换积分法	dai huan ji fen fa
+代入	dai ru
+代入法	dai ru fa
+代数	dai shu
+代数不等式	dai shu bu deng shi
+代数代入	dai shu dai ru
+代数的	dai shu de
+代数方程	dai shu fang cheng
+代数分式	dai shu fen shi
+代数分数式	dai shu fen shu shi
+代数封闭	dai shu feng bi
+代数基本定理	dai shu ji ben ding li
+代数几何	dai shu ji he
+代数式	dai shu shi
+代数数	dai shu shu
+代数项	dai shu xiang
+代数余子式	dai shu yu zi shi
+代数运算	dai shu yun suan
+带分数	dai fen shu
+待定系数	dai ding xi shu
+待定型	dai ding xing
+单摆	dan bai
+单边极限	dan bian ji xian
+单纯形方法	dan chun xing fang fa
+单峰分布	shan feng fen bu
+单利	dan li
+单利息	dan li xi
+单满射	dan man she
+单射	dan she
+单数	dan shu
+单调	dan diao
+单调递减	dan diao di jian
+单调递减函数	dan diao di jian han shu
+单调递增	dan diao di zeng
+单调递增函数	dan diao di zeng han shu
+单调函数	dan diao han shu
+单调收敛定理	dan diao shou lian ding li
+单调收敛性	dan diao shou lian xing
+单调性	dan diao xing
+单位	dan wei
+单位的n次根	dan wei de n ci gen
+单位的立方根	dan wei de li fang gen
+单位矩阵	dan wei ju zhen
+单位面积	dan wei mian ji
+单位矢量	dan wei shi liang
+单位体积	dan wei ti ji
+单位向量	dan wei xiang liang
+单位虚数	dan wei xu shu
+单位元	dan wei yuan
+单位圆	dan wei yuan
+单位阵	dan wei zhen
+单项式	dan xiang shi
+单元	dan yuan
+单元集	dan yuan ji
+单值函数	dan zhi han shu
+单值化定理	dan zhi hua ding li
+弹回	dan hui
+弹力	tan li
+弹性	tan xing
+弹性常数	tan xing chang shu
+弹性模	tan xing mo
+弹性碰撞	tan xing peng zhuang
+弹性体	tan xing ti
+当且仅当	dang qie jin dang
+导出组	dao chu zu
+导函数	dao han shu
+导函数曲线	dao han shu qu xian
+导数	dao shu
+导数当作变率	dao shu dang zuo bian lv
+导数之定义域	dao shu zhi ding yi yu
+倒数	dao shu
+倒置矩阵	dao zhi ju zhen
+到上函数	dao shang han shu
+德摩根律	de mo gen lv
+的降序	de jiang xu
+的升幂	de sheng mi
+等比定理	deng bi ding li
+等比级数	deng bi ji shu
+等比数列	deng bi shu lie
+等比序列	deng bi xu lie
+等比中项	deng bi zhong xiang
+等边	deng bian
+等边多边形	deng bian duo bian xing
+等边三角形	deng bian san jiao xing
+等边形	deng bian xing
+等差级数	deng cha ji shu
+等差数列	deng cha shu lie
+等差序列	deng cha xu lie
+等差中顶	deng cha zhong ding
+等分	deng fen
+等分线　	deng fen xian 　
+等概率的	deng gai lv de
+等概率空间	deng gai lv kong jian
+等高线	deng gao xian
+等根	deng gen
+等号	deng hao
+等级	deng ji
+等集	deng ji
+等价	deng jia
+等价的	deng jia de
+等价方程	deng jia fang cheng
+等价关系	deng jia guan xi
+等价类	deng jia lei
+等角	deng jiao
+等距	deng ju
+等可能的	deng ke neng de
+等幂的	deng mi de
+等式	deng shi
+等腰三角形	deng yao san jiao xing
+等腰梯形	deng yao ti xing
+等于	deng yu
+等周定理	deng zhou ding li
+等轴只曲线	deng zhou zhi qu xian
+低阶	di jie
+狄利克来函数	di li ke lai han shu
+狄利克雷定理	di li ke lei ding li
+迪尼定理	di ni ding li
+笛卡儿定理	di ka er ding li
+笛卡儿方程	di ka er fang cheng
+笛卡儿符号法则	di ka er fu hao fa ze
+笛卡儿积	di ka er ji
+笛卡儿平面	di ka er ping mian
+笛卡儿叶形线	di ka er ye xing xian
+笛卡儿坐标	di ka er zuo biao
+笛卡儿坐标系	di ka er zuo biao xi
+笛卡尔坐标系	di ka er zuo biao xi
+笛沙格定理	di sha ge ding li
+底边	di bian
+底角	di jiao
+底面	di mian
+底数	di shu
+底线　	di xian 　
+地图着色问题	di tu zhuo se wen ti
+地心加速度	di xin jia su du
+递归	di gui
+递减	di jian
+递减函数	di jian han shu
+递减级数	di jian ji shu
+递减试验法	di jian shi yan fa
+递减数列	di jian shu lie
+递减序列	di jian xu lie
+递降序	di jiang xu
+递升序	di sheng xu
+递推公式	di tui gong shi
+递增	di zeng
+递增函数	di zeng han shu
+递增级数	di zeng ji shu
+递增序列	di zeng xu lie
+第二数学归纳法	di er shu xue gui na fa
+第二四分位数截面	di er si fen wei shu jie mian
+第三四分位数	di san si fen wei shu
+第一卦限	di yi gua xian
+第一射影	di yi she ying
+第一四分位数	di yi si fen wei shu
+第一投影	di yi tou ying
+棣美弗定理	di mei fu ding li
+棣莫弗定理	di mo fu ding li
+棣莫弗-拉普拉斯定理	di mo fu la pu la si ding li
+典型	dian xing
+点估计	dian gu ji
+点积	dian ji
+点斜式	dian xie shi
+点圆	dian yuan
+电子计算器	dian zi ji suan qi
+迭代	die dai
+迭代法	die dai fa
+迭代函数	die dai han shu
+迭代形	die dai xing
+迭代值	die dai zhi
+迭函数	die han shu
+迭合	die he
+迭合法	die he fa
+顶垂线	ding chui xian
+顶点	ding dian
+顶角	ding jiao
+钉板	ding ban
+定比分点	ding bi fen dian
+定的	ding de
+定点	ding dian
+定点迭代法	ding dian die dai fa
+定滑轮	ding hua lun
+定积分	ding ji fen
+定价	ding jia
+定理	ding li
+定律	ding lv
+定期存款	ding qi cun kuan
+定义	ding yi
+定义域	ding yi yu
+动力学	dong li xue
+动量	dong liang
+动量守恒	dong liang shou heng
+动量守恒定律	dong liang shou heng ding lv
+动摩擦	dong mo ca
+动能	dong neng
+动态规划	dong tai gui hua
+逗留点	dou liu dian
+独立	du li
+独立变量	du li bian liang
+独立方程	du li fang cheng
+独立事件	du li shi jian
+独异点	du yi dian
+端点	duan dian
+短除法	duan chu fa
+短轴	duan zhou
+断定	duan ding
+断语	duan yu
+堆砌	dui qi
+对边	dui bian
+对策	dui ce
+对称	dui chen
+对称闭包	dui chen bi bao
+对称差	dui chen cha
+对称的	dui chen de
+对称关系	dui chen guan xi
+对称矩阵	dui chen ju zhen
+对称群	dui chen qun
+对称式	dui chen shi
+对称性	dui chen xing
+对称轴	dui chen zhou
+对顶角	dui ding jiao
+对合律	dui he lv
+对换	dui huan
+对角	dui jiao
+对角矩阵	dui jiao ju zhen
+对角线	dui jiao xian
+对角元	dui jiao yuan
+对角阵	dui jiao zhen
+对偶	dui ou
+对偶规划	dui ou gui hua
+对偶性	dui ou xing
+对射	dui she
+对射函数	dui she han shu
+对数	dui shu
+对数的底	dui shu de di
+对数的定位部	dui shu de ding wei bu
+对数的定值部	dui shu de ding zhi bu
+对数的首数	dui shu de shou shu
+对数的尾数	dui shu de wei shu
+对数方程	dui shu fang cheng
+对数函数	dui shu han shu
+对向	dui xiang
+对应	dui ying
+对应边	dui ying bian
+对应角	dui ying jiao
+对应于序列的集合	dui ying yu xu lie de ji he
+钝角	dun jiao
+钝角三角形	dun jiao san jiao xing
+多边的	duo bian de
+多边形	duo bian xing
+多边形法	duo bian xing fa
+多边形法则	duo bian xing fa ze
+多边形加法	duo bian xing jia fa
+多个对一个	duo ge dui yi ge
+多面体	duo mian ti
+多维空间	duo wei kong jian
+多位数	duo wei shu
+多项式	duo xiang shi
+多项式的次数	duo xiang shi de ci shu
+多项式的零点	duo xiang shi de ling dian
+多项式定理	duo xiang shi ding li
+多项式方程	duo xiang shi fang cheng
+多项式因式分解	duo xiang shi yin shi fen jie
+多项式余数定理	duo xiang shi yu shu ding li
+多项式之次数	duo xiang shi zhi ci shu
+多值的	duo zhi de
+多值函数	duo zhi han shu
+多重根	duo chong gen
+多重图	duo chong tu
+二倍角	er bei jiao
+二倍角公式	er bei jiao gong shi
+二次不等式	er ci bu deng shi
+二次方	er ci fang
+二次方程	er ci fang cheng
+二次方根	er ci fang gen
+二次根	er ci gen
+二次公式	er ci gong shi
+二次函数	er ci han shu
+二次互反律	er ci hu fan lv
+二次曲　	er ci qu 　
+二次曲线x轴截距	er ci qu xian x zhou jie ju
+二次曲线的直径	er ci qu xian de zhi jing
+二角形	er jiao xing
+二阶常微分方程	er jie chang wei fen fang cheng
+二阶导数	er jie dao shu
+二阶导数试验法	er jie dao shu shi yan fa
+二阶偏导数	er jie pian dao shu
+二阶收敛性	er jie shou lian xing
+二进法	er jin fa
+二进数	er jin shu
+二进制	er jin zhi
+二刻尺作图	er ke chi zuo tu
+二十面体	er shi mian ti
+二维空间	er wei kong jian
+二项分布	er xiang fen bu
+二项级数	er xiang ji shu
+二项式	er xiang shi
+二项式定理	er xiang shi ding li
+二义情况	er yi qing kuang
+二元方程	er yuan fang cheng
+二元关系	er yuan guan xi
+二元线性方程	er yuan xian xing fang cheng
+二元一次方程	er yuan yi ci fang cheng
+二元一次方程组	er yuan yi ci fang cheng zu
+二元运算	er yuan yun suan
+二重根	er zhong gen
+二重积分	er zhong ji fen
+二重积分之变数变换	er zhong ji fen zhi bian shu bian huan
+二重外积	er zhong wai ji
+发散	fa san
+发散的	fa san de
+发散级数	fa san ji shu
+发散性迭代	fa san xing die dai
+发散序列	fa san xu lie
+法规	fa gui
+法确解	fa que jie
+法图引理	fa tu yin li
+法线	fa xian
+法线的	fa xian de
+法线式	fa xian shi
+法向量	fa xiang liang
+法伊特-汤普森定理	fa yi te tang pu sen ding li
+凡·奥贝尔定理	fan · ao bei er ding li
+繁分数	fan fen shu
+反比例	fan bi li
+反变	fan bian
+反称矩阵	fan cheng ju zhen
+反冲	fan chong
+反导数	fan dao shu
+反的	fan de
+反对称	fan dui chen
+反对称的	fan dui chen de
+反对数	fan dui shu
+反函数	fan han shu
+反函数定理	fan han shu ding li
+反角	fan jiao
+反棱柱	fan leng zhu
+反例	fan li
+反面	fan mian
+反曲点	fan qu dian
+反三角函数	fan san jiao han shu
+反微商	fan wei shang
+反向法作用力	fan xiang fa zuo yong li
+反向器	fan xiang qi
+反向映射	fan xiang ying she
+反余割	fan yu ge
+反余切	fan yu qie
+反余弦	fan yu xian
+反余弦函数	fan yu xian han shu
+反正割	fan zheng ge
+反正切	fan zheng qie
+反正切函数	fan zheng qie han shu
+反正弦	fan zheng xian
+反正弦函数	fan zheng xian han shu
+反证	fan zheng
+反证法	fan zheng fa
+反自反的	fan zi fan de
+反作用	fan zuo yong
+返时针方向	fan shi zhen fang xiang
+泛量	fan liang
+范畴	fan chou
+范德蒙德行列式	fan de meng de hang lie shi
+范德瓦尔登定理	fan de wa er deng ding li
+范氏图	fan shi tu
+范数	fan shu
+范围	fan wei
+方差	fang cha
+方程	fang cheng
+方程的设立	fang cheng de she li
+方程的系数	fang cheng de xi shu
+方程解	fang cheng jie
+方程式	fang cheng shi
+方程组的初等变换	fang cheng zu de chu deng bian huan
+方程组的零点	fang cheng zu de ling dian
+方程组的特解	fang cheng zu de te jie
+方程组的图象	fang cheng zu de tu xiang
+方法	fang fa
+方括号	fang kuo hao
+方位	fang wei
+方位角	fang wei jiao
+方向	fang xiang
+方向比	fang xiang bi
+方向导数	fang xiang dao shu
+方向的方向角	fang xiang de fang xiang jiao
+方向的方向余弦	fang xiang de fang xiang yu xian
+方向角	fang xiang jiao
+方向数	fang xiang shu
+方向向量	fang xiang xiang liang
+方向余弦	fang xiang yu xian
+方向子空间	fang xiang zi kong jian
+方阵	fang zhen
+仿射标架	fang she biao jia
+仿射坐标	fang she zuo biao
+仿射坐标系	fang she zuo biao xi
+非弹性碰撞	fei tan xing peng zhuang
+非对称	fei dui chen
+非对称的	fei dui chen de
+非负的	fei fu de
+非交换的	fei jiao huan de
+非可递的	fei ke di de
+非零	fei ling
+非平凡的	fei ping fan de
+非奇异的	fei qi yi de
+非退化的	fei tui hua de
+非退化的线性变换	fei tui hua de xian xing bian huan
+非线性	fei xian xing
+非线性方程	fei xian xing fang cheng
+非线性降维	fei xian xing jiang wei
+非正常积分	fei zheng chang ji fen
+非正态分布	fei zheng tai fen bu
+非自反的	fei zi fan de
+斐波那契数	fei bo na qi shu
+斐波那契序列	fei bo na qi xu lie
+费尔马最后定理	fei er ma zui hou ding li
+费马大定理	fei ma da ding li
+费马多边形数定理	fei ma duo bian xing shu ding li
+费马平方和定理	fei ma ping fang he ding li
+费马小定理	fei ma xiao ding li
+分半法	fen ban fa
+分半方法	fen ban fang fa
+分布	fen bu
+分布域	fen bu yu
+分部积分法	fen bu ji fen fa
+分点	fen dian
+分段定义函数	fen duan ding yi han shu
+分割	fen ge
+分角线　	fen jiao xian 　
+分句	fen ju
+分块对角矩阵	fen kuai dui jiao ju zhen
+分块矩阵	fen kuai ju zhen
+分类	fen lei
+分类公理	fen lei gong li
+分类数据	fen lei shu ju
+分离系数	fen li xi shu
+分力	fen li
+分立	fen li
+分量	fen liang
+分母	fen mu
+分配格	fen pei ge
+分配律	fen pei lv
+分式	fen shi
+分式不等式	fen shi bu deng shi
+分式方程	fen shi fang cheng
+分数	fen shu
+分数混算	fen shu hun suan
+分数指数	fen shu zhi shu
+分数转百分数	fen shu zhuan bai fen shu
+分数转小数	fen shu zhuan xiao shu
+分图	fen tu
+分析	fen xi
+分项分式	fen xiang fen shi
+分形维数	fen xing wei shu
+分子	fen zi
+分组数据	fen zu shu ju
+芬斯勒-哈德维格尔定理	fen si le ha de wei ge er ding li
+封闭区间	feng bi qu jian
+否定	fou ding
+否定律	fou ding lv
+否定区域	fou ding qu yu
+否定式	fou ding shi
+弗罗贝尼乌斯定理	fu luo bei ni wu si ding li
+符号	fu hao
+辐角	fu jiao
+辐角原理	fu jiao yuan li
+俯角	fu jiao
+辅助方程	fu zhu fang cheng
+辅助角	fu zhu jiao
+辅助圆	fu zhu yuan
+父结点	fu jie dian
+负二项式分布	fu er xiang shi fen bu
+负荷	fu he
+负角	fu jiao
+负矩阵	fu ju zhen
+负矢量	fu shi liang
+负数	fu shu
+负维空间	fu wei kong jian
+负向量	fu xiang liang
+负一维空间	fu yi wei kong jian
+负映射	fu ying she
+负整数	fu zheng shu
+负指数	fu zhi shu
+复共轭	fu gong e
+复合	fu he
+复合关系	fu he guan xi
+复合函数	fu he han shu
+复合函数之导数	fu he han shu zhi dao shu
+复合命题	fu he ming ti
+复合数	fu he shu
+复合叙述	fu he xu shu
+复角	fu jiao
+复角公式	fu jiao gong shi
+复利	fu li
+复利息	fu li xi
+复平面	fu ping mian
+复数	fu shu
+复数的辐角	fu shu de fu jiao
+复数的模	fu shu de mo
+复数根	fu shu gen
+复数平面	fu shu ping mian
+复杂的	fu za de
+复折扣	fu zhe kou
+傅里叶级数	fu li ye ji shu
+富比尼定理	fu bi ni ding li
+概括	gai kuo
+概率	gai lv
+概率分布	gai lv fen bu
+概率公理论	gai lv gong li lun
+概率论建模	gai lv lun jian mo
+概率密度函数	gai lv mi du han shu
+概率母函数	gai lv mu han shu
+概率性的	gai shuai xing de
+概念	gai nian
+刚体	gang ti
+高度	gao du
+高阶导数	gao jie dao shu
+高斯法则	gao si fa ze
+高斯分布	gao si fen bu
+高斯-卢卡斯定理	gao si lu ka si ding li
+高斯-马尔可夫定理	gao si ma er ke fu ding li
+高斯散度定理	gao si san du ding li
+高斯消去法	gao si xiao qu fa
+高斯消元法	gao si xiao yuan fa
+高线	gao xian
+哥德巴赫-欧拉定理	ge de ba he ou la ding li
+哥德尔不完备定理	ge de er bu wan bei ding li
+哥德尔完备性定理	ge de er wan bei xing ding li
+哥尼斯堡七桥问题	ge ni si bao qi qiao wen ti
+鸽巢原理	ge chao yuan li
+割边	ge bian
+割的容量	ge de rong liang
+割线	ge xian
+格点	ge dian
+格尔丰德-施奈德定理	ge er feng de shi nai de ding li
+格林公式	ge lin gong shi
+格式	ge shi
+个位	ge wei
+给定	gei ding
+根号	gen hao
+根结点	gen jie dian
+根式	gen shi
+根树	gen shu
+根数	gen shu
+根心	gen xin
+根指数	gen zhi shu
+根轴	gen zhou
+弓形	gong xing
+公倍	gong bei
+公倍数	gong bei shu
+公比	gong bi
+公布	gong bu
+公差	gong chai
+公分母	gong fen mu
+公理	gong li
+公切　	gong qie 　
+公设	gong she
+公式	gong shi
+公位数	gong wei shu
+公弦	gong xian
+公因子	gong yin zi
+公因子及公倍数	gong yin zi ji gong bei shu
+公约	gong yue
+公约数	gong yue shu
+功率	gong lv
+共点	gong dian
+共轭	gong e
+共轭不尽根	gong e bu jin gen
+共轭复根定理	gong e fu gen ding li
+共轭复数	gong e fu shu
+共轭根式	gong e gen shi
+共轭径	gong e jing
+共轭双曲　	gong e shuang qu 　
+共轭虚数	gong e xu shu
+共轭轴	gong e zhou
+共焦圆锥曲　	gong jiao yuan zhui qu 　
+共面	gong mian
+共面　	gong mian 　
+共面力	gong mian li
+共线　	gong xian 　
+共线面	gong xian mian
+共圆	gong yuan
+共圆点	gong yuan dian
+共轴	gong zhou
+共轴系	gong zhou xi
+共轴圆	gong zhou yuan
+勾股定理	gou gu ding li
+构造性证明	gou zao xing zheng ming
+估计	gu ji
+估计量	gu ji liang
+孤立点	gu li dian
+孤立结点	gu li jie dian
+古代计时工具	gu dai ji shi gong ju
+古代记时工具	gu dai ji shi gong ju
+古代记数方法	gu dai ji shu fang fa
+古代数字	gu dai shu zi
+古典概率论	gu dian gai lv lun
+古尔丁定理	gu er ding ding li
+古斯塔夫森定理	gu si ta fu sen ding li
+谷山-志村定理	gu shan zhi cun ding li
+股息	gu xi
+固体	gu ti
+固有误差	gu you wu cha
+卦限	gua xian
+拐点	guai dian
+关系	guan xi
+关系的复合	guan xi de fu he
+关系式	guan xi shi
+贯性矩	guan xing ju
+贯轴	guan zhou
+惯量	guan liang
+惯性	guan xing
+广泛地	guang fan di
+广义积分	guang yi ji fen
+归谬法	gui miu fa
+归纳法	gui na fa
+归纳法假设	gui na fa jia she
+归纳维数	gui na wei shu
+归约公式	gui yue gong shi
+规格	gui ge
+规律	gui lv
+规则	gui ze
+规则系统	gui ze xi tong
+轨迹	gui ji
+轨迹方程	gui ji fang cheng
+哈恩-巴拿赫定理	ha en ba na he ding li
+哈密尔顿路径	ha mi er dun lu jing
+哈斯图	ha si tu
+海涅-博雷尔定理	hai nie bo lei er ding li
+海涅-康托尔定理	hai nie kang tuo er ding li
+亥姆霍兹定理	hai mu huo zi ding li
+蚶线	han xian
+含么半群	han me ban qun
+函数	han shu
+函数的扩张	han shu de kuo zhang
+函数的零点	han shu de ling dian
+函数的值域	han shu de zhi yu
+函数的自变量	han shu de zi bian liang
+函数记号	han shu ji hao
+函数零值	han shu ling zhi
+函数增长	han shu zeng zhang
+函数之合成	han shu zhi he cheng
+函数之连续性	han shu zhi lian xu xing
+函数值	han shu zhi
+汉英对对碰	han ying dui dui peng
+行程图	xing cheng tu
+行阶梯矩阵	xing jie ti ju zhen
+行空间	xing kong jian
+行列式	hang lie shi
+行满秩矩阵	xing man zhi ju zhen
+行矢量	xing shi liang
+行向量	xing xiang liang
+行秩	xing zhi
+豪斯多夫维数	hao si duo fu wei shu
+合并	he bing
+合成概率	he cheng gai lv
+合成函数	he cheng han shu
+合成数	he cheng shu
+合力	he li
+合量	he liang
+合取	he qu
+合矢量	he shi liang
+合数	he shu
+合速度	he su du
+合向量	he xiang liang
+和化积公式	he hua ji gong shi
+和积互变公式	he ji hu bian gong shi
+和解	he jie
+和向量	he xiang liang
+核空间	he kong jian
+赫尔德定理	he er de ding li
+赫耳德不等式	he er de bu deng shi
+黑林格-特普利茨定理	hei lin ge te pu li ci ding li
+恒等	heng deng
+恒等关系式	heng deng guan xi shi
+恒等矩阵	heng deng ju zhen
+恒等映射	heng deng ying she
+恒加速度	heng jia su du
+恒力	heng li
+恒速率	heng su lv
+恒同变换	heng tong bian huan
+恒同映射	heng tong ying she
+恒真命题	heng zhen ming ti
+恒真式	heng zhen shi
+恒直公式	heng zhi gong shi
+横截的	heng jie de
+横截分量	heng jie fen liang
+横截面	heng jie mian
+横截轴	heng jie zhou
+横切面	heng qie mian
+横线　	heng xian 　
+横坐标	heng zuo biao
+后乘	hou cheng
+后项	hou xiang
+后序遍历	hou xu bian li
+后验概率	hou yan gai lv
+弧度	hu du
+弧度法	hu du fa
+弧形	hu xing
+弧长	hu chang
+胡尔维兹定理	hu er wei zi ding li
+蝴蝶定理	hu die ding li
+虎克定律	hu ke ding lv
+互补概率	hu bu gai lv
+互补事件	hu bu shi jian
+互不相交	hu bu xiang jiao
+互斥的	hu chi de
+互斥事件	hu chi shi jian
+互换	hu huan
+互素	hu su
+互相垂直　	hu xiang chui zhi 　
+互相独立	hu xiang du li
+互质	hu zhi
+划分	hua fen
+划分块	hua fen kuai
+划记法	hua ji fa
+华勒斯-波埃伊-格维也纳定理	hua le si bo ai yi ge wei ye na ding li
+滑轮	hua lun
+环面	huan mian
+环形排列	huan xing pai lie
+换元	huan yuan
+换元法	huan yuan fa
+换元积分法	huan yuan ji fen fa
+黄金分割	huang jin fen ge
+黄金分割率	huang jin fen ge lv
+黄金分割数	huang jin fen ge shu
+恢复系数	hui fu xi shu
+回代	hui dai
+回复力	hui fu li
+回路	hui lu
+回收	hui shou
+回溯	hui su
+回旋体	hui xuan ti
+回转曲面	hui zhuan qu mian
+回转体的体积	hui zhuan ti de ti ji
+绘图	hui tu
+混合积	hun he ji
+或门	huo men
+或然率	huo ran lv
+货郎担问题	huo lang dan wen ti
+霍普夫-里诺定理	huo pu fu li nuo ding li
+机会	ji hui
+机械	ji xie
+机械能	ji xie neng
+积法则	ji fa ze
+积分	ji fen
+积分常数	ji fen chang shu
+积分第二中值定理	ji fen di er zhong zhi ding li
+积分第一中值定理	ji fen di yi zhong zhi ding li
+积分法	ji fen fa
+积分学	ji fen xue
+积分因子	ji fen yin zi
+积化和差公式	ji hua he cha gong shi
+积集	ji ji
+积偏序	ji pian xu
+积数指数	ji shu zhi shu
+积样本空间	ji yang ben kong jian
+积之导数	ji zhi dao shu
+基本行运算	ji ben hang yun suan
+基本路径	ji ben lu jing
+基本事件	ji ben shi jian
+基础步	ji chu bu
+基础四则混算	ji chu si ze hun suan
+基的变换	ji de bian huan
+基尔霍夫定理	ji er huo fu ding li
+基数	ji shu
+基准线	ji zhun xian
+吉洪诺夫定理	ji hong nuo fu ding li
+级数	ji shu
+极差	ji cha
+极大	ji da
+极大点	ji da dian
+极大线性无关组	ji da xian xing wu guan zu
+极大与极小值	ji da yu ji xiao zhi
+极大元	ji da yuan
+极大值	ji da zhi
+极点	ji dian
+极方程	ji fang cheng
+极方程式	ji fang cheng shi
+极限	ji xian
+极限的商定律	ji xian de shang ding lv
+极限角	ji xian jiao
+极限情况	ji xian qing kuang
+极限位置	ji xian wei zhi
+极小	ji xiao
+极小点	ji xiao dian
+极小项	ji xiao xiang
+极小值	ji xiao zhi
+极值	ji zhi
+极值点	ji zhi dian
+极值定理	ji zhi ding li
+极值元素	ji zhi yuan su
+极轴	ji zhou
+极坐标	ji zuo biao
+极坐标表示之面积	ji zuo biao biao shi zhi mian ji
+极坐标二重积分	ji zuo biao er zhong ji fen
+极坐标平面	ji zuo biao ping mian
+极坐标系统	ji zuo biao xi tong
+集的结构式	ji de jie gou shi
+集合	ji he
+集合包含	ji he bao han
+集合运算	ji he yun suan
+集项	ji xiang
+集中趋	ji zhong qu
+几何	ji he
+几何板	ji he ban
+几何分布	ji he fen bu
+几何级数	ji he ji shu
+几何平均数	ji he ping jun shu
+几何图形	ji he tu xing
+几何学	ji he xue
+几乎	ji hu
+己知	ji zhi
+计盒维数	ji he wei shu
+计划	ji hua
+计量	ji liang
+计数	ji shu
+计算	ji suan
+计算方法	ji suan fang fa
+计算器	ji suan qi
+计值	ji zhi
+记法	ji fa
+记号	ji hao
+加法	jia fa
+加法定律	jia fa ding lv
+加法反元	jia fa fan yuan
+加法公式	jia fa gong shi
+加法交换性质	jia fa jiao huan xing zhi
+加法逆元	jia fa ni yuan
+加减法	jia jian fa
+加括号	jia kuo hao
+加权平均数	jia quan ping jun shu
+加权平均值	jia quan ping jun zhi
+加数	jia shu
+加速	jia su
+加速度	jia su du
+嘉当-迪厄多内定理	jia dang di e duo nei ding li
+夹边	jia bian
+夹挤定理	jia ji ding li
+夹角	jia jiao
+假定	jia ding
+假定平均数	jia ding ping jun shu
+假分数	jia fen shu
+假设	jia she
+假设检验	jia she jian yan
+假设三段论	jia she san duan lun
+假值	jia zhi
+间断	jian duan
+间断数据	jian duan shu ju
+间断随机变数	jian duan sui ji bian shu
+间接证明法	jian jie zheng ming fa
+检定力	jian ding li
+检验标准	jian yan biao zhun
+检验数位	jian yan shu wei
+减法	jian fa
+减量	jian liang
+减少	jian shao
+减数	jian shu
+减速	jian su
+减速度	jian su du
+简单迭代法	jian dan die dai fa
+简单回路	jian dan hui lu
+简单路径	jian dan lu jing
+简分数	jian fen shu
+简化	jian hua
+简化行阶梯矩阵	jian hua xing jie ti ju zhen
+简谐运动	jian xie yun dong
+简易方程	jian yi fang cheng
+渐近　	jian jin 　
+渐近误差常数	jian jin wu cha chang shu
+渐近线	jian jin xian
+降级锥曲线	jiang ji zhui qu xian
+交叉相乘	jiao cha xiang cheng
+交错弓形的圆周角	jiao cuo gong xing de yuan zhou jiao
+交错级数	jiao cuo ji shu
+交点	jiao dian
+交迭	jiao die
+交换律	jiao huan lv
+交换群	jiao huan qun
+交集	jiao ji
+交角	jiao jiao
+交替群	jiao ti qun
+交线　	jiao xian 　
+焦点	jiao dian
+焦距	jiao ju
+焦弦	jiao xian
+焦轴	jiao zhou
+角的平分线	jiao de ping fen xian
+角动量	jiao dong liang
+角度	jiao du
+角方向	jiao fang xiang
+角平分	jiao ping fen
+角平分线	jiao ping fen xian
+角平分线　	jiao ping fen xian 　
+角平分线定理	jiao ping fen xian ding li
+角速度	jiao su du
+角移位	jiao yi wei
+角运动	jiao yun dong
+角柱	jiao zhu
+角锥	jiao zhui
+较小的	jiao xiao de
+阶乘	jie cheng
+阶导数	jie dao shu
+阶对称群	jie dui chen qun
+阶梯函数	jie ti han shu
+阶梯形方程组	jie ti xing fang cheng zu
+接近	jie jin
+接受区域	jie shou qu yu
+结点	jie dian
+结点的度	jie dian de du
+结果	jie guo
+结合律	jie he lv
+结论	jie lun
+截　	jie 　
+截点	jie dian
+截点公式	jie dian gong shi
+截段	jie duan
+截断泰勒级数	jie duan tai le ji shu
+截断误差	jie duan wu cha
+截痕	jie hen
+截距	jie ju
+截距式	jie ju shi
+截面	jie mian
+截尾	jie wei
+截线	jie xian
+截线　	jie xian 　
+截线定理	jie xian ding li
+解法	jie fa
+解集	jie ji
+解空间	jie kong jian
+解析	jie xi
+解析几何	jie xi ji he
+解向量	jie xiang liang
+解一元线性方程	jie yi yuan xian xing fang cheng
+介值定理	jie zhi ding li
+界限	jie xian
+紧致性定理	jin zhi xing ding li
+进位	jin wei
+近似	jin si
+近似积分	jin si ji fen
+近似数	jin si shu
+近似值	jin si zhi
+经常往来于两地的人	jing chang wang lai yu liang di de ren
+经验概率	jing yan gai lv
+精密	jing mi
+精确度	jing que du
+精确解	jing que jie
+净力	jing li
+静力学	jing li xue
+静摩擦角	jing mo ca jiao
+静磨擦	jing mo ca
+静止	jing zhi
+镜像	jing xiang
+九边形	jiu bian xing
+九面体	jiu mian ti
+九维空间	jiu wei kong jian
+局部极大	ju bu ji da
+局部极大值与极小值	ju bu ji da zhi yu ji xiao zhi
+局部极小	ju bu ji xiao
+局部极值	ju bu ji zhi
+矩臂	ju bi
+矩体	ju ti
+矩形	ju xing
+矩形分布	ju xing fen bu
+矩形公式	ju xing gong shi
+矩形数	ju xing shu
+矩形图	ju xing tu
+矩阵	ju zhen
+矩阵乘法	ju zhen cheng fa
+矩阵的标量乘积	ju zhen de biao liang cheng ji
+矩阵的乘积	ju zhen de cheng ji
+矩阵的多项式	ju zhen de duo xiang shi
+矩阵的和	ju zhen de he
+矩阵的阶	ju zhen de jie
+矩阵的元	ju zhen de yuan
+矩阵的秩与矩阵的运算	ju zhen de zhi yu ju zhen de yun suan
+矩阵方程	ju zhen fang cheng
+矩阵加法	ju zhen jia fa
+矩阵运算	ju zhen yun suan
+距离	ju li
+距离公式	ju li gong shi
+距心	ju xin
+卷积定理	juan ji ding li
+绝不等式	jue bu deng shi
+绝对补集	jue dui bu ji
+绝对单调	jue dui dan diao
+绝对极大与极小	jue dui ji da yu ji xiao
+绝对极大值	jue dui ji da zhi
+绝对极小值	jue dui ji xiao zhi
+绝对极值	jue dui ji zhi
+绝对收敛	jue dui shou lian
+绝对误差	jue dui wu cha
+绝对值	jue dui zhi
+绝对值函数	jue dui zhi han shu
+绝妙定理	jue miao ding li
+均方根	jun fang gen
+均匀	jun yun
+均匀分布	jun yun fen bu
+均匀分布的	jun yun fen bu de
+均匀横切面	jun yun heng qie mian
+均匀物体	jun yun wu ti
+均值定理	jun zhi ding li
+卡迈克尔定理	ka mai ke er ding li
+卡诺定理	ka nuo ding li
+卡诺图	ka nuo tu
+开方	kai fang
+开立方	kai li fang
+开平方	kai ping fang
+开区间	kai qu jian
+开世定理	kai shi ding li
+开映射定理	kai ying she ding li
+凯莱定理	kai lai ding li
+凯莱-哈密顿定理	kai lai ha mi dun ding li
+戡根定理	kan gen ding li
+康托尔-伯恩斯坦-施罗德定理	kang tuo er bo en si tan shi luo de ding li
+康托尔定理	kang tuo er ding li
+柯西定理	ke xi ding li
+柯西积分定理	ke xi ji fen ding li
+柯西均值定理	ke xi jun zhi ding li
+柯西-利普希茨定理	ke xi li pu xi ci ding li
+柯西-许瓦尔兹不等式	ke xi xu wa er zi bu deng shi
+柯西序列	ke xi xu lie
+柯西中值定理	ke xi zhong zhi ding li
+柯西主值	ke xi zhu zhi
+科学记数法	ke xue ji shu fa
+可被整除的	ke bei zheng chu de
+可比较的	ke bi jiao de
+可变速度	ke bian su du
+可变速率	ke bian su lv
+可变性	ke bian xing
+可乘性	ke cheng xing
+可传递的	ke chuan di de
+可达性关系	ke da xing guan xi
+可导	ke dao
+可导函数	ke dao han shu
+可分配的	ke fen pei de
+可分微分方程	ke fen wei fen fang cheng
+可行解	ke xing jie
+可化简的	ke hua jian de
+可化简性	ke hua jian xing
+可积	ke ji
+可积函数	ke ji han shu
+可加性	ke jia xing
+可兼的	ke jian de
+可兼析取	ke jian xi qu
+可交换的	ke jiao huan de
+可结合的	ke jie he de
+可靠性定理	ke kao xing ding li
+可满足式	ke man zu shi
+可能性	ke neng xing
+可逆的	ke ni de
+可逆函数	ke ni han shu
+可逆矩阵	ke ni ju zhen
+可迁律	ke qian lv
+可求长的	ke qiu chang de
+可数	ke shu
+可数集	ke shu ji
+可数无限	ke shu wu xian
+可微	ke wei
+可相容的	ke xiang rong de
+可移不连续性	ke yi bu lian xu xing
+可约的	ke yue de
+可约性	ke yue xing
+可整除	ke zheng chu
+克莱玛法则	ke lai ma fa ze
+克莱姆法则	ke lai mu fa ze
+克莱尼不动点定理	ke lai ni bu dong dian ding li
+克鲁尔维数	ke lu er wei shu
+克罗内克定理	ke luo nei ke ding li
+克罗内克-韦伯定理	ke luo nei ke wei bo ding li
+克纳斯特-塔斯基定理	ke na si te ta si ji ding li
+空串	kong chuan
+空关系	kong guan xi
+空集	kong ji
+空间分割定理	kong jian fen ge ding li
+空间之直线	kong jian zhi zhi xian
+亏蚀	kui shi
+亏蚀百分率	kui shi bai fen lv
+扩充	kuo chong
+扩张	kuo zhang
+括号	kuo hao
+阔度	kuo du
+拉东-尼科迪姆定理	la dong ni ke di mu ding li
+拉格朗日定理	la ge lang ri ding li
+拉格朗日中值定理	la ge lang ri zhong zhi ding li
+拉克斯-米尔格拉姆定理	la ke si mi er ge la mu ding li
+拉密定律	la mi ding lv
+拉姆齐定理	la mu qi ding li
+拉普拉斯展式	la pu la si zhan shi
+勒贝格控制收敛定理	le bei ge kong zhi shou lian ding li
+勒贝格微分定理	le bei ge wei fen ding li
+勒让德定理	le rang de ding li
+勒文海姆-斯科伦定理	le wen hai mu si ke lun ding li
+雷维收敛定理	lei wei shou lian ding li
+类别	lei bie
+类似的	lei shi de
+类型	lei xing
+累积	lei ji
+累积的	lei ji de
+累积分布函数	lei ji fen bu han shu
+累积频率	lei ji pin lv
+累积频率直方图	lei ji pin shuai zhi fang tu
+累积频数	lei ji pin shu
+累积频数多边形	lei ji pin shu duo bian xing
+累积频数分布	lei ji pin shu fen bu
+累积频数曲　	lei ji pin shu qu 　
+棱台	leng tai
+棱柱	leng zhu
+棱锥	leng zhui
+离差	li cha
+离差的量度	li cha de liang du
+离均差	li jun cha
+离散	li san
+离散均匀分布	li san jun yun fen bu
+离散数据	li san shu ju
+离心角	li xin jiao
+离心力	li xin li
+离心率	li xin lv
+离心圆	li xin yuan
+黎曼和	li man he
+黎曼级数定理	li man ji shu ding li
+黎曼几何	li man ji he
+黎曼-勒贝格定理	li man le bei ge ding li
+黎曼-罗赫定理	li man luo he ding li
+黎曼映射定理	li man ying she ding li
+里斯表示定理	li si biao shi ding li
+理论	li lun
+理论概率	li lun gai lv
+理由	li you
+力臂	li bi
+力的分解	li de fen jie
+力的约化	li de yue hua
+力矩	li ju
+力偶	li ou
+立方	li fang
+立方根	li fang gen
+立方数	li fang shu
+立方体	li fang ti
+立体	li ti
+立体的	li ti de
+立体的面	li ti de mian
+立体图形	li ti tu xing
+利得税	li de shui
+利率	li lv
+利息	li xi
+利息税	li xi shui
+例证	li zheng
+连比	lian bi
+连比例	lian bi li
+连变	lian bian
+连词	lian ci
+连接	lian jie
+连锁律	lian suo lv
+连通的	lian tong de
+连通性关系	lian tong xing guan xi
+连续比例	lian xu bi li
+连续的	lian xu de
+连续函数	lian xu han shu
+连续数	lian xu shu
+连续数据	lian xu shu ju
+连续随机变量	lian xu sui ji bian liang
+连续校正	lian xu jiao zheng
+连续性	lian xu xing
+连续整数	lian xu zheng shu
+联变	lian bian
+联合二次线性方程式	lian he er ci xian xing fang cheng shi
+联立不等式	lian li bu deng shi
+联立方程	lian li fang cheng
+联立微分方程	lian li wei fen fang cheng
+链表	lian biao
+链表表示	lian biao biao shi
+链式法则	lian shi fa ze
+良定	liang ding
+良序定理	liang xu ding li
+两点式	liang dian shi
+两两互斥事件	liang liang hu chi shi jian
+两平面的交角	liang ping mian de jiao jiao
+两义情况	liang yi qing kuang
+量词	liang ci
+量度	liang du
+量角器	liang jiao qi
+量网	liang wang
+量子空间	liang zi kong jian
+列表法	lie biao fa
+列矩阵	lie ju zhen
+列空间	lie kong jian
+列满秩矩阵	lie man zhi ju zhen
+列向量	lie xiang liang
+列秩	lie zhi
+劣弓形	lie gong xing
+劣弧	lie hu
+劣扇形	lie shan xing
+邻边	lin bian
+邻补角	lin bu jiao
+邻角	lin jiao
+邻接结点	lin jie jie dian
+邻域	lin yu
+林德曼-魏尔斯特拉斯定理	lin de man wei er si te la si ding li
+临界点	lin jie dian
+临界域	lin jie yu
+临界值	lin jie zhi
+灵敏度分析	ling min du fen xi
+菱形	ling xing
+零化度	ling hua du
+零假设	ling jia she
+零解	ling jie
+零矩阵	ling ju zhen
+零图	ling tu
+零维空间	ling wei kong jian
+零向量	ling xiang liang
+零一律	ling yi lv
+零因子	ling yin zi
+零映射	ling ying she
+零元	ling yuan
+另一假设	ling yi jia she
+刘维尔定理	liu wei er ding li
+留数定理	liu shu ding li
+流程图	liu cheng tu
+流的守恒	liu de shou heng
+流的值	liu de zhi
+六边形	liu bian xing
+六面体	liu mian ti
+六维空间	liu wei kong jian
+六指数定理	liu zhi shu ding li
+卢津定理	lu jin ding li
+路径	lu jing
+卵形线	luan xing xian
+轮换	lun huan
+论证	lun zheng
+罗巴切夫斯基几何	luo ba qie fu si ji ji he
+罗尔定理	luo er ding li
+罗马数字	luo ma shu zi
+罗盘	luo pan
+罗盘方位角	luo pan fang wei jiao
+罗斯定理	luo si ding li
+逻辑	luo ji
+逻辑步骤	luo ji bu zhou
+逻辑推理	luo ji tui li
+逻辑推论	luo ji tui lun
+逻辑学家	luo ji xue jia
+螺线	luo xian
+螺旋线	luo xuan xian
+洛必达法则	luo bi da fa ze
+洛尔定理	luo er ding li
+吕利耶定理	lv li ye ding li
+略计	lve ji
+马可夫链	ma ke fu lian
+马勒定理	ma le ding li
+迈尔斯定理	mai er si ding li
+迈希尔-尼罗德定理	mai xi er ni luo de ding li
+麦克劳林级数	mai ke lao lin ji shu
+麦克劳林展开式	mai ke lao lin zhan kai shi
+满射	man she
+满射函数	man she han shu
+满秩的	man zhi de
+满秩矩阵	man zhi ju zhen
+蔓叶　	man ye 　
+毛球定理	mao qiu ding li
+矛盾	mao dun
+么元	me yuan
+梅涅劳斯定理	mei nie lao si ding li
+米迪定理	mi di ding li
+密度	mi du
+密克定理	mi ke ding li
+密铺	mi pu
+幂等的	mi deng de
+幂函数	mi han shu
+幂函数之导数	mi han shu zhi dao shu
+幂级数	mi ji shu
+幂集	mi ji
+幂集公理	mi ji gong li
+羃级数之导数	mi ji shu zhi dao shu
+面积	mian ji
+面积分	mian ji fen
+描述统计学	miao shu tong ji xue
+闵可夫斯基不等式	min ke fu si ji bu deng shi
+闵可夫斯基定理	min ke fu si ji ding li
+命令	ming ling
+命题	ming ti
+命题变元	ming ti bian yuan
+命题公式	ming ti gong shi
+命题联结词	ming ti lian jie ci
+命题推演	ming ti tui yan
+命题演算	ming ti yan suan
+谬误	miu wu
+模方	mo fang
+模格	mo ge
+模数	mo shu
+模型	mo xing
+摩擦	mo ca
+摩擦力	mo ca li
+摩擦系数	mo ca xi shu
+末速度	mo su du
+末项	mo xiang
+莫尔-马歇罗尼定理	mo er ma xie luo ni ding li
+莫雷角三分线定理	mo lei jiao san fen xian ding li
+莫雷拉定理	mo lei la ding li
+默认	mo ren
+母函数	mu han shu
+母集	mu ji
+母线	mu xian
+目标函数	mu biao han shu
+拿破仑定理	na po lun ding li
+纳皮尔对数	na pi er dui shu
+纳什嵌入定理	na shi qian ru ding li
+纳逊方法	na xun fang fa
+内摆线	nei bai xian
+内插法	nei cha fa
+内错弓形	nei cuo gong xing
+内错角	nei cuo jiao
+内对角	nei dui jiao
+内分点	nei fen dian
+内分割	nei fen ge
+内分角　	nei fen jiao 　
+内积	nei ji
+内角	nei jiao
+内接三角形	nei jie san jiao xing
+内力	nei li
+内能	nei neng
+内切	nei qie
+内切圆	nei qie yuan
+内射	nei she
+内射函数	nei she han shu
+内射维度	nei she wei du
+能量	neng liang
+能量守恒	neng liang shou heng
+拟阵	ni zhen
+拟柱体	ni zhu ti
+逆比例	ni bi li
+逆变	ni bian
+逆波兰表示	ni bo lan biao shi
+逆波兰记法	ni bo lan ji fa
+逆的	ni de
+逆定理	ni ding li
+逆对数	ni dui shu
+逆否命题	ni fou ming ti
+逆关系	ni guan xi
+逆函数	ni han shu
+逆矩阵	ni ju zhen
+逆命题	ni ming ti
+逆时针方向	ni shi zhen fang xiang
+逆时针力矩	ni shi zhen li ju
+逆算问题	ni suan wen ti
+逆序对	ni xu dui
+逆序数	ni xu shu
+逆映射	ni ying she
+逆元	ni yuan
+鸟头定理	niao tou ding li
+牛顿定理	niu dun ding li
+牛顿方法	niu dun fang fa
+牛顿公式	niu dun gong shi
+牛顿运动定律	niu dun yun dong ding lv
+欧几里得定理	ou ji li de ding li
+欧几里得算法	ou ji li de suan fa
+欧几里德几何	ou ji li de ji he
+欧几里德算法	ou ji li de suan fa
+欧拉定理	ou la ding li
+欧拉公式	ou la gong shi
+欧拉路径	ou la lu jing
+欧拉示性数	ou la shi xing shu
+欧拉旋转定理	ou la xuan zhuan ding li
+偶函数	ou han shu
+偶数	ou shu
+偶置换	ou zhi huan
+帕普斯定理	pa pu si ding li
+帕塞瓦尔定理	pa sai wa er ding li
+帕斯卡定理	pa si ka ding li
+帕斯卡斯三角形	pa si ka si san jiao xing
+排队论	pai dui lun
+排列	pai lie
+排容原理	pai rong yuan li
+派生统计资料	pai sheng tong ji zi liao
+判别式	pan bie shi
+判定框	pan ding kuang
+庞加莱-本迪克松定理	pang jia lai ben di ke song ding li
+庞加莱-霍普夫定理	pang jia lai huo pu fu ding li
+旁切圆	pang qie yuan
+旁心	pang xin
+抛射运动	pao she yun dong
+抛物面	pao wu mian
+抛物线	pao wu xian
+抛物柱面	pao wu zhu mian
+拋物线	pao wu xian
+拋物线的轴	pao wu xian de zhou
+陪集	pei ji
+赔本	pei ben
+赔率	pei lv
+配对公理	pei dui gong li
+配方	pei fang
+配方法	pei fang fa
+喷气推进	pen qi tui jin
+碰撞	peng zhuang
+碰撞系数	peng zhuang xi shu
+披萨定理	pi sa ding li
+皮卡定理	pi ka ding li
+皮克定理	pi ke ding li
+皮亚诺存在性定理	pi ya nuo cun zai xing ding li
+匹配函数	pi pei han shu
+匹配问题	pi pei wen ti
+偏差	pian cha
+偏导数	pian dao shu
+偏微分法	pian wei fen fa
+偏微分方程	pian wei fen fang cheng
+偏斜分布	pian xie fen bu
+偏斜线	pian xie xian
+偏序关系	pian xu guan xi
+偏序集	pian xu ji
+偏倚	pian yi
+拼接	pin jie
+频率	pin lv
+频率多边形	pin lv duo bian xing
+频率分布	pin lv fen bu
+频数	pin shu
+频数多边形	pin shu duo bian xing
+频数分布	pin shu fen bu
+频数分布表	pin shu fen bu biao
+平凡解	ping fan jie
+平方	ping fang
+平方根	ping fang gen
+平方数	ping fang shu
+平分	ping fen
+平分线　	ping fen xian 　
+平行	ping xing
+平行力	ping xing li
+平行六面体	ping xing liu mian ti
+平行四边形	ping xing si bian xing
+平行四边形法	ping xing si bian xing fa
+平行四边形法则	ping xing si bian xing fa ze
+平行四边形加法	ping xing si bian xing jia fa
+平行线	ping xing xian
+平行座标	ping xing zuo biao
+平衡	ping heng
+平滑曲面	ping hua qu mian
+平滑曲线	ping hua qu xian
+平角	ping jiao
+平截头棱锥体	ping jie tou leng zhui ti
+平截头体	ping jie tou ti
+平均	ping jun
+平均偏差	ping jun pian cha
+平均数	ping jun shu
+平均速度	ping jun su du
+平均速率	ping jun su lv
+平均值	ping jun zhi
+平面	ping mian
+平面的参数方程	ping mian de can shu fang cheng
+平面的截距式方程	ping mian de jie ju shi fang cheng
+平面的三点式方程	ping mian de san dian shi fang cheng
+平面的一般方程	ping mian de yi ban fang cheng
+平面国	ping mian guo
+平面几何	ping mian ji he
+平面上之直线	ping mian shang zhi zhi xian
+平面束	ping mian shu
+平面图	ping mian tu
+平面图形	ping mian tu xing
+平面直角坐标系	ping mian zhi jiao zuo biao xi
+平稳	ping wen
+平稳点	ping wen dian
+平稳值	ping wen zhi
+平移	ping yi
+坡度	po du
+婆罗摩笈多定理	po luo mo ji duo ding li
+迫近定理	po jin ding li
+铺嵌	pu qian
+普罗斯定理	pu luo si ding li
+普通分数	pu tong fen shu
+谱定理	pu ding li
+七边形	qi bian xing
+七次方程	qi ci fang cheng
+七面体	qi mian ti
+七维空间	qi wei kong jian
+期望	qi wang
+期望值	qi wang zhi
+齐次的	qi ci de
+齐次方程	qi ci fang cheng
+齐次线性方程组	qi ci xian xing fang cheng zu
+齐次线性方程组的基础解系	qi ci xian xing fang cheng zu de ji chu jie xi
+齐次线性方程组的秩	qi ci xian xing fang cheng zu de zhi
+齐肯多夫定理	qi ken duo fu ding li
+奇的	qi de
+奇点	qi dian
+奇函数	qi han shu
+奇偶性	ji ou xing
+奇数	ji shu
+奇异矩阵	qi yi ju zhen
+奇异值分解	qi yi zhi fen jie
+奇置换	qi zhi huan
+棋行	qi xing
+起点	qi dian
+恰当微分形式	qia dang wei fen xing shi
+千万	qian wan
+铅垂	qian chui
+铅垂　	qian chui 　
+前乘	qian cheng
+前号	qian hao
+前件	qian jian
+前提	qian ti
+前序遍历	qian xu bian li
+嵌砌	qian qi
+切除定理	qie chu ding li
+切触	qie chu
+切点	qie dian
+切点弦	qie dian xian
+切平面	qie ping mian
+切线	qie xian
+切线的	qie xian de
+切向量	qie xiang liang
+切消定理	qie xiao ding li
+倾角	qing jiao
+倾斜	qing xie
+倾斜角	qing xie jiao
+倾斜率	qing xie lv
+求导法	qiu dao fa
+求和法	qiu he fa
+求和公式	qiu he gong shi
+求积法	qiu ji fa
+球冠	qiu guan
+球面	qiu mian
+球面坐标	qiu mian zuo biao
+球缺	qiu que
+球体	qiu ti
+球形	qiu xing
+区分	qu fen
+区间	qu jian
+区间估计	qu jian gu ji
+区限	qu xian
+区域	qu yu
+区域估计	qu yu gu ji
+区中点	qu zhong dian
+趋近	qu jin
+曲面	qu mian
+曲面面积	qu mian mian ji
+曲线	qu xian
+曲线　	qu xian 　
+曲线的法线	qu xian de fa xian
+曲线的曲率	qu xian de qu lv
+曲线基本定理	qu xian ji ben ding li
+曲线间之面积	qu xian jian zhi mian ji
+曲线描绘	qu xian miao hui
+曲线描迹	qu xian miao ji
+曲线统计图	qu xian tong ji tu
+曲线下方之面积	qu xian xia fang zhi mian ji
+取值至	qu zhi zhi
+去括号	qu kuo hao
+权图	quan tu
+全称量词	quan cheng liang ci
+全称量词化	quan cheng liang ci hua
+全等	quan deng
+全等的	quan deng de
+全等三角形	quan deng san jiao xing
+全等图形	quan deng tu xing
+全集	quan ji
+全局	quan ju
+全局极大值	quan ju ji da zhi
+全局极小值	quan ju ji xiao zhi
+全幂等的	quan mi deng de
+全面地	quan mian de
+全微分	quan wei fen
+全序	quan xu
+全振动	quan zhen dong
+确定的	que ding de
+群的阶	qun de jie
+任一元素	ren yi yuan su
+任意	ren yi
+任意常数	ren yi chang shu
+容斥原理	rong chi yuan li
+容量	rong liang
+容许解	rong xu jie
+儒歇定理	ru xie ding li
+入度	ru du
+锐角	rui jiao
+锐角三角形	rui jiao san jiao xing
+若尔当曲线定理	ruo er dang qu xian ding li
+若且仅若	ruo qie jin ruo
+萨维奇定理	sa wei qi ding li
+塞瓦定理	sai wa ding li
+三倍	san bei
+三倍角	san bei jiao
+三次	san ci
+三次方	san ci fang
+三次方程	san ci fang cheng
+三次方根	san ci fang gen
+三次函数	san ci han shu
+三次互反律	san ci hu fan lv
+三等分	san deng fen
+三段论	san duan lun
+三分律	san fen lv
+三角	san jiao
+三角板	san jiao ban
+三角比	san jiao bi
+三角不等式	san jiao bu deng shi
+三角尺	san jiao chi
+三角代换法	san jiao dai huan fa
+三角方程	san jiao fang cheng
+三角函数	san jiao han shu
+三角函数表	san jiao han shu biao
+三角恒等式	san jiao heng deng shi
+三角积分	san jiao ji fen
+三角矩阵	san jiao ju zhen
+三角形	san jiao xing
+三角形的直角边	san jiao xing de zhi jiao bian
+三角形的中线	san jiao xing de zhong xian
+三角形法	san jiao xing fa
+三角形法则	san jiao xing fa ze
+三角形加法	san jiao xing jia fa
+三角形解法	san jiao xing jie fa
+三角形内角和	san jiao xing nei jiao he
+三角形数	san jiao xing shu
+三角学	san jiao xue
+三角柱	san jiao zhu
+三棱柱	san leng zhu
+三维空间	san wei kong jian
+三项式	san xiang shi
+三一律	san yi lv
+三重积	san chong ji
+三重积分	san chong ji fen
+散点图	san dian tu
+森逊法则	sen xun fa ze
+森逊积分	sen xun ji fen
+删除	shan chu
+删去	shan qu
+扇式	shan shi
+扇形	shan xing
+扇形角	shan xing jiao
+扇形统计图	shan xing tong ji tu
+扇形之面积	shan xing zhi mian ji
+商定律	shang ding lv
+商法则	shang fa ze
+商集	shang ji
+商群	shang qun
+商式	shang shi
+商之导数	shang zhi dao shu
+上和	shang he
+上界	shang jie
+上取整函数	shang qu zheng han shu
+上确界	shang que jie
+上三角形矩阵	shang san jiao xing ju zhen
+上舍入	shang she ru
+上四分位数	shang si fen wei shu
+上限	shang xian
+上有界的	shang you jie de
+上域	shang yu
+舍去	she qu
+舍入	she ru
+舍数	she shu
+射线	she xian
+射影	she ying
+射影定理	she ying ding li
+伸张	shen zhang
+生成	sheng cheng
+生成函数	sheng cheng han shu
+生成元	sheng cheng yuan
+剩余	sheng yu
+失效	shi xiao
+施力	shi li
+施力点	shi li dian
+施图姆定理	shi tu mu ding li
+施瓦兹不等式	shi wa zi bu deng shi
+十边形	shi bian xing
+十二边形	shi er bian xing
+十二面体	shi er mian ti
+十分位	shi fen wei
+十分位数	shi fen wei shu
+十进数	shi jin shu
+十进制	shi jin zhi
+十进制单位	shi jin zhi dan wei
+十六进制	shi liu jin zhi
+十面体	shi mian ti
+十万	shi wan
+十位	shi wei
+十五边形	shi wu bian xing
+十一边形	shi yi bian xing
+十一面体	shi yi mian ti
+十亿	shi yi
+时间	shi jian
+实部	shi bu
+实根	shi gen
+实数	shi shu
+实验概率	shi yan gai lv
+实验公式	shi yan gong shi
+实验数据	shi yan shu ju
+实轴	shi zhou
+矢量	shi liang
+矢量方程	shi liang fang cheng
+矢量分解	shi liang fen jie
+矢量函数	shi liang han shu
+矢量和	shi liang he
+矢量积	shi liang ji
+始边	shi bian
+始点	shi dian
+始值	shi zhi
+势集	shi ji
+势能	shi neng
+事后概率	shi hou gai lv
+事先概率	shi xian gai lv
+试位法	shi wei fa
+收敛	shou lian
+收敛半径	shou lian ban jing
+收敛的	shou lian de
+收敛的迭代	shou lian de die dai
+收敛级数	shou lian ji shu
+收敛率	shou lian lv
+收敛区间	shou lian qu jian
+收敛区域	shou lian qu yu
+收敛数列	shou lian shu lie
+收敛性	shou lian xing
+收敛序列	shou lian xu lie
+收入函数	shou ru han shu
+守恒	shou heng
+首近似值	shou jin si zhi
+首通径	shou tong jing
+首项	shou xiang
+首项系数	shou xiang xi shu
+受迫振动	shou po zhen dong
+售价	shou jia
+枢纽定理	shu niu ding li
+舒尔正交关系	shu er zheng jiao guan xi
+输出	shu chu
+输出框	shu chu kuang
+输换式	shu huan shi
+输入	shu ru
+树形图	shu xing tu
+数表	shu biao
+数句	shu ju
+数据	shu ju
+数理统计建模	shu li tong ji jian mo
+数量	shu liang
+数量积	shu liang ji
+数列	shu lie
+数码	shu ma
+数偶	shu ou
+数平面	shu ping mian
+数式	shu shi
+数数	shu shu
+数系	shu xi
+数线　	shu xian 　
+数型	shu xing
+数学	shu xue
+数学分析	shu xue fen xi
+数学归纳法	shu xue gui na fa
+数学建模	shu xue jian mo
+数学结构	shu xue jie gou
+数学模型	shu xue mo xing
+数学证明	shu xue zheng ming
+数值的	shu zhi de
+数值法	shu zhi fa
+数值积分法	shu zhi ji fen fa
+数轴	shu zhou
+数字	shu zi
+数字的	shu zi de
+数字分析	shu zi fen xi
+数字符号	shu zi fu hao
+数字排序	shu zi pai xu
+数字式	shu zi shi
+数字系数	shu zi xi shu
+数组	shu zu
+衰变	shuai bian
+衰变因子	shuai bian yin zi
+双峰分布	shuang feng fen bu
+双纽线	shuang niu xian
+双钮线	shuang niu xian
+双曲函数	shuang qu han shu
+双曲面	shuang qu mian
+双曲线	shuang qu xian
+双曲线　	shuang qu xian 　
+双射	shuang she
+双数	shuang shu
+双条件式	shuang tiao jian shi
+双尾检验	shuang wei jian yan
+双向链表	shuang xiang lian biao
+双修件句	shuang xiu jian ju
+双修件式	shuang xiu jian shi
+双重性	shuang chong xing
+水平	shui ping
+水平的	shui ping de
+水平分量	shui ping fen liang
+水平渐近线	shui ping jian jin xian
+水平射程	shui ping she cheng
+水平线	shui ping xian
+水平线　	shui ping xian 　
+顺时针方向	shun shi zhen fang xiang
+顺时针力矩	shun shi zhen li ju
+顺序访问	shun xu fang wen
+瞬时的	shun shi de
+瞬时加速度	shun shi jia su du
+瞬时速度	shun shi su du
+瞬时速率	shun shi su lv
+说明	shuo ming
+说明命题	shuo ming ming ti
+说明语句	shuo ming yu ju
+斯坦纳-雷姆斯定理	si tan na lei mu si ding li
+斯通布尔代数表示定理	si tong bu er dai shu biao shi ding li
+斯图尔特定理	si tu er te ding li
+斯托尔兹-切萨罗定理	si tuo er zi qie sa luo ding li
+斯托克斯定理	si tuo ke si ding li
+四瓣玫瑰线	si ban mei gui xian
+四边形	si bian xing
+四次方	si ci fang
+四次方程	si ci fang cheng
+四次方根	si ci fang gen
+四顶点定理	si ding dian ding li
+四分位数	si fen wei shu
+四分位数间距	si fen wei shu jian ju
+四分之一	si fen zhi yi
+四面体	si mian ti
+四平方和定理	si ping fang he ding li
+四色定理	si se ding li
+四舍五入	si she wu ru
+四维空间	si wei kong jian
+四位数表	si wei shu biao
+四则	si ze
+四则计算	si ze ji suan
+素数	su shu
+素数定理	su shu ding li
+速率	su lv
+算法分析	suan fa fen xi
+算法系统	suan fa xi tong
+算法证明	suan fa zheng ming
+算盘	suan pan
+算术	suan shu
+算术基本定理	suan shu ji ben ding li
+算术级数	suan shu ji shu
+算术平方根	suan shu ping fang gen
+算术平均	suan shu ping jun
+算术平均数	suan shu ping jun shu
+算术平均值	suan shu ping jun zhi
+算术中顶	suan shu zhong ding
+随机	sui ji
+随机变量	sui ji bian liang
+随机访问	sui ji fang wen
+随机试验	sui ji shi yan
+随机数	sui ji shu
+随机选择	sui ji xuan ze
+随机样本	sui ji yang ben
+梭柱	suo zhu
+泰博定理	tai bo ding li
+泰勒公式	tai le gong shi
+泰勒级数	tai le ji shu
+泰勒斯定理	tai le si ding li
+泰勒展开式	tai le zhan kai shi
+泰勒中值定理	tai le zhong zhi ding li
+贪婪算法	tan lan suan fa
+特别角	te bie jiao
+特解	te jie
+特殊角	te shu jiao
+特征方程	te zheng fang cheng
+特征根	te zheng gen
+特征函数	te zheng han shu
+特征值与特征向量	te zheng zhi yu te zheng xiang liang
+梯度	ti du
+梯矩阵	ti ju zhen
+梯形	ti xing
+梯形法则	ti xing fa ze
+梯形法则逼近法	ti xing fa ze bi jin fa
+梯形积分	ti xing ji fen
+梯阵式	ti zhen shi
+体积	ti ji
+体系	ti xi
+条件	tiao jian
+条件不等式	tiao jian bu deng shi
+条件概率	tiao jian gai lv
+条件恒等式	tiao jian heng deng shi
+条件句	tiao jian ju
+条件式	tiao jian shi
+条线图	tiao xian tu
+条形统计图	tiao xing tong ji tu
+条形图	tiao xing tu
+调和级数	tiao he ji shu
+调和平均数	tiao he ping jun shu
+调和中项	tiao he zhong xiang
+通解	tong jie
+通路	tong lu
+通式	tong shi
+通项	tong xiang
+同顶角	tong ding jiao
+同分母	tong fen mu
+同弓形内的圆周角	tong gong xing nei de yuan zhou jiao
+同构	tong gou
+同构基本定理	tong gou ji ben ding li
+同阶	tong jie
+同解	tong jie
+同解方程	tong jie fang cheng
+同界角	tong jie jiao
+同类根式	tong lei gen shi
+同类项	tong lei xiang
+同旁内角	tong pang nei jiao
+同态	tong tai
+同态核	tong tai he
+同态像	tong tai xiang
+同调维度	tong diao wei du
+同位角	tong wei jiao
+同心圆	tong xin yuan
+同心圆族	tong xin yuan zu
+同一律	tong yi lv
+同余	tong yu
+同余关系	tong yu guan xi
+同余类	tong yu lei
+同余算术	tong yu suan shu
+统计	tong ji
+统计分析	tong ji fen xi
+统计数据	tong ji shu ju
+统计图表	tong ji tu biao
+统计显著性	tong ji xian zhu xing
+统计学	tong ji xue
+统计学-量度分布	tong ji xue liang du fen bu
+统计学-量度集中趋势	tong ji xue liang du ji zhong qu shi
+统计学-量度离差	tong ji xue liang du li cha
+统计学-统计图表	tong ji xue tong ji tu biao
+统计学-正态分布	tong ji xue zheng tai fen bu
+投射角	tou she jiao
+投射平面	tou she ping mian
+投射维度	tou she wei du
+投射线	tou she xian
+投影	tou ying
+骰子	tou zi
+凸多边形	tu duo bian xing
+凸性	tu xing
+图表	tu biao
+图表纸	tu biao zhi
+图尺	tu chi
+图的着色	tu de zhuo se
+图厄定理	tu e ding li
+图解	tu jie
+图解法	tu jie fa
+图兰定理	tu lan ding li
+图论	tu lun
+图示	tu shi
+图象	tu xiang
+图像	tu xiang
+图形	tu xing
+图形面积	tu xing mian ji
+图形周界	tu xing zhou jie
+土瓦兹	tu wa zi
+推断	tui duan
+推理规则	tui li gui ze
+推力	tui li
+推论	tui lun
+推论律	tui lun lv
+推算统计资料	tui suan tong ji zi liao
+退化的方阵	tui hua de fang zhen
+退化的线性变换	tui hua de xian xing bian huan
+退位	tui wei
+托勒密定理	tuo le mi ding li
+椭球	tuo qiu
+椭球体	tuo qiu ti
+椭圆	tuo yuan
+椭圆函数	tuo yuan han shu
+椭圆体	tuo yuan ti
+椭圆之轴	tuo yuan zhi zhou
+拓扑排序	tuo pu pai xu
+拓扑维数	tuo pu wei shu
+外摆线	wai bai xian
+外分点	wai fen dian
+外分角　	wai fen jiao 　
+外积	wai ji
+外角	wai jiao
+外接圆	wai jie yuan
+外接圆半径	wai jie yuan ban jing
+外接圆心	wai jie yuan xin
+外切	wai qie
+外切圆	wai qie yuan
+外心	wai xin
+外延	wai yan
+完全弹性物体	wan quan tan xing wu ti
+完全匹配	wan quan pi pei
+完全平方	wan quan ping fang
+完全确定	wan quan que ding
+完全数	wan quan shu
+完全图	wan quan tu
+完整数	wan zheng shu
+网网格线	wang wang ge xian
+威尔逊定理	wei er xun ding li
+微分	wei fen
+微分法	wei fen fa
+微分方程	wei fen fang cheng
+微分方程模型	wei fen fang cheng mo xing
+微分方程组	wei fen fang cheng zu
+微分几何	wei fen ji he
+微分系数	wei fen xi shu
+微分学	wei fen xue
+微分中值定理	wei fen zhong zhi ding li
+微积分	wei ji fen
+微积分基本定理	wei ji fen ji ben ding li
+微积分学	wei ji fen xue
+微商	wei shang
+韦伯定理	wei bo ding li
+韦达定理	wei da ding li
+为酉矩阵	wei you ju zhen
+唯一解	wei yi jie
+唯一性	wei yi xing
+维度	wei du
+维津定理	wei jin ding li
+维纳-辛钦定理	wei na xin qin ding li
+维维亚尼定理	wei wei ya ni ding li
+维向量	wei xiang liang
+维向量空间	wei xiang liang kong jian
+伪码	wei ma
+尾数	wei shu
+未定系数	wei ding xi shu
+未定元	wei ding yuan
+未加调料的肉	wei jia tiao liao de rou
+未下定义	wei xia ding yi
+未知量	wei zhi liang
+未知数	wei zhi shu
+位能	wei neng
+位相	wei xiang
+位移	wei yi
+位值	wei zhi
+位置二元树	wei zhi er yuan shu
+位置矢量	wei zhi shi liang
+位置树	wei zhi shu
+位置向量	wei zhi xiang liang
+谓词	wei ci
+魏尔施特拉斯分解定理	wei er shi te la si fen jie ding li
+魏尔斯特拉斯逼近定理	wei er si te la si bi jin ding li
+温氏图	wen shi tu
+文氏图	wen shi tu
+文字	wen zi
+文字方程	wen zi fang cheng
+文字系数	wen zi xi shu
+稳定性分析	wen ding xing fen xi
+稳度	wen du
+蜗牛线	wo niu xian
+沃尔斯滕霍尔姆定理	wo er si teng huo er mu ding li
+无回路的	wu hui lu de
+无界函数	wu jie han shu
+无理方程	wu li fang cheng
+无理数	wu li shu
+无摩擦运动	wu mo ca yun dong
+无偏估计量	wu pian gu ji liang
+无穷	wu qiong
+无穷大	wu qiong da
+无穷多	wu qiong duo
+无穷级数	wu qiong ji shu
+无穷极限	wu qiong ji xian
+无穷小	wu qiong xiao
+无穷小数	wu qiong xiao shu
+无穷序列	wu qiong xu lie
+无限	wu xian
+无限猴子定理	wu xian hou zi ding li
+无限级数	wu xian ji shu
+无限维	wu xian wei
+无限项之和	wu xian xiang zhi he
+无限小	wu xian xiao
+无限序列	wu xian xu lie
+无限总体	wu xian zong ti
+无向边	wu xiang bian
+无向量	wu xiang liang
+无向树	wu xiang shu
+无向图	wu xiang tu
+无效	wu xiao
+无效数字	wu xiao shu zi
+无重复排列	wu chong fu pai lie
+五边形	wu bian xing
+五边形数定理	wu bian xing shu ding li
+五次方程	wu ci fang cheng
+五面体	wu mian ti
+五色定理	wu se ding li
+五维空间	wu wei kong jian
+物空间	wu kong jian
+物业税	wu ye shui
+误差	wu cha
+误差估计	wu cha gu ji
+误差宽容度	wu cha kuan rong du
+误差项	wu cha xiang
+西尔维斯特惯性定理	xi er wei si te guan xing ding li
+西尔维斯特-加莱定理	xi er wei si te jia lai ding li
+西罗定理	xi luo ding li
+西姆松定理	xi mu song ding li
+吸收律	xi shou lv
+希罗公式	xi luo gong shi
+析取	xi qu
+系数	xi shu
+系数矩阵	xi shu ju zhen
+系统	xi tong
+瑕积分	xia ji fen
+下标	xia biao
+下和	xia he
+下降函数	xia jiang han shu
+下降级数	xia jiang ji shu
+下降序列	xia jiang xu lie
+下界	xia jie
+下取整函数	xia qu zheng han shu
+下三角形矩阵	xia san jiao xing ju zhen
+下舍入	xia she ru
+下四分位数	xia si fen wei shu
+下限	xia xian
+下有界的	xia you jie de
+先验概率	xian yan gai lv
+显函数	xian han shu
+显式的	xian shi de
+显著性检验	xian zhu xing jian yan
+显著性水平	xian zhu xing shui ping
+现代计算工具	xian dai ji suan gong ju
+线动量	xian dong liang
+线段	xian duan
+线路设计	xian lu she ji
+线束	xian shu
+线条图	xian tiao tu
+线性	xian xing
+线性逼近法	xian xing bi jin fa
+线性变换	xian xing bian huan
+线性表	xian xing biao
+线性表示	xian xing biao shi
+线性不等式	xian xing bu deng shi
+线性代数基本定理	xian xing dai shu ji ben ding li
+线性代数建模	xian xing dai shu jian mo
+线性的	xian xing de
+线性等价	xian xing deng jia
+线性方程	xian xing fang cheng
+线性方程式	xian xing fang cheng shi
+线性方程组	xian xing fang cheng zu
+线性方程组的解	xian xing fang cheng zu de jie
+线性方程组与线性子空间	xian xing fang cheng zu yu xian xing zi kong jian
+线性规划	xian xing gui hua
+线性规划模型	xian xing gui hua mo xing
+线性函数	xian xing han shu
+线性化	xian xing hua
+线性近似	xian xing jin si
+线性流形	xian xing liu xing
+线性流形的维数	xian xing liu xing de wei shu
+线性收敛性	xian xing shou lian xing
+线性同余定理	xian xing tong yu ding li
+线性图	xian xing tu
+线性微分方程	xian xing wei fen fang cheng
+线性无关	xian xing wu guan
+线性无关的	xian xing wu guan de
+线性相关	xian xing xiang guan
+线性相关的	xian xing xiang guan de
+线性映射	xian xing ying she
+线性映射的标量乘积	xian xing ying she de biao liang cheng ji
+线性映射的秩	xian xing ying she de zhi
+线性子空间	xian xing zi kong jian
+线性子空间的维数	xian xing zi kong jian de wei shu
+线性组合	xian xing zu he
+线性组合的系数	xian xing zu he de xi shu
+线序	xian xu
+线序集	xian xu ji
+相等	xiang deng
+相对极大	xiang dui ji da
+相对极大值与极小值	xiang dui ji da zhi yu ji xiao zhi
+相对极小	xiang dui ji xiao
+相对频数	xiang dui pin shu
+相对速度	xiang dui su du
+相对误差	xiang dui wu cha
+相对运动	xiang dui yun dong
+相反数	xiang fan shu
+相关	xiang guan
+相关事件	xiang guan shi jian
+相关系数	xiang guan xi shu
+相互作用	xiang hu zuo yong
+相继地	xiang ji di
+相交	xiang jiao
+相交角	xiang jiao jiao
+相交直线	xiang jiao zhi xian
+相邻数	xiang lin shu
+相切	xiang qie
+相容的	xiang rong de
+相容估计量	xiang rong gu ji liang
+相容条件	xiang rong tiao jian
+相似三角形	xiang si san jiao xing
+相似图形	xiang si tu xing
+相位	xiang wei
+相消	xiang xiao
+相依事件	xiang yi shi jian
+相移	xiang yi
+相异根	xiang yi gen
+相异解	xiang yi jie
+向量	xiang liang
+向量的标量乘积	xiang liang de biao liang cheng ji
+向量的分量	xiang liang de fen liang
+向量的加法	xiang liang de jia fa
+向量的夹角	xiang liang de jia jiao
+向量的线性运算	xiang liang de xian xing yun suan
+向量的相等	xiang liang de xiang deng
+向量的长度	xiang liang de chang du
+向量方程	xiang liang fang cheng
+向量分解	xiang liang fen jie
+向量函数	xiang liang han shu
+向量和	xiang liang he
+向量积	xiang liang ji
+向量空间	xiang liang kong jian
+向量空间的维数	xiang liang kong jian de wei shu
+向量三重积	xiang liang san chong ji
+向量在某方向上的分量	xiang liang zai mou fang xiang shang de fen liang
+向量值函数	xiang liang zhi han shu
+向量组的延伸组	xiang liang zu de yan shen zu
+向量组的秩	xiang liang zu de zhi
+向量组线性无关	xiang liang zu xian xing wu guan
+向量组线性相关	xiang liang zu xian xing xiang guan
+向心加速度	xiang xin jia su du
+向心力	xiang xin li
+项和	xiang he
+象集	xiang ji
+象空间	xiang kong jian
+象限	xiang xian
+象形图	xiang xing tu
+像点	xiang dian
+像原	xiang yuan
+消法	xiao fa
+消去法	xiao qu fa
+消去律	xiao qu lv
+消元法	xiao yuan fa
+小弓形	xiao gong xing
+小弧	xiao hu
+小平消没定理	xiao ping xiao mo ding li
+小扇形	xiao shan xing
+小数	xiao shu
+小数点	xiao shu dian
+小数混算	xiao shu hun suan
+小数位	xiao shu wei
+小数转百分数	xiao shu zhuan bai fen shu
+小于	xiao yu
+小于等于	xiao yu deng yu
+斜边	xie bian
+斜的	xie de
+斜度	xie du
+斜高	xie gao
+斜渐近线	xie jian jin xian
+斜角	xie jiao
+斜截式	xie jie shi
+斜棱	xie leng
+斜率	xie lv
+斜率截距式	xie lv jie ju shi
+斜面	xie mian
+斜三角形	xie san jiao xing
+斜圆锥	xie yuan zhui　
+形式化的证明	xing shi hua de zheng ming
+形心	xing xin
+形状	xing zhuang
+兄弟结点	xiong di jie dian
+虚部	xu bu
+虚根	xu gen
+虚假设	xu jia she
+虚数	xu shu
+虚数单位	xu shu dan wei
+虚圆	xu yuan
+虚轴	xu zhou
+序关系	xu guan xi
+序列	xu lie
+序列的极限	xu lie de ji xian
+序偶	xu ou
+序数	xu shu
+悬链　	xuan lian 　
+旋输线	xuan shu xian
+旋转	xuan zhuan
+旋转角	xuan zhuan jiao
+旋转曲面	xuan zhuan qu mian
+旋转曲面之面积	xuan zhuan qu mian zhi mian ji
+旋转体	xuan zhuan ti
+旋转体的体积	xuan zhuan ti de ti ji
+旋转轴	xuan zhuan zhou
+循环的	xun huan de
+循环排列	xun huan pai lie
+循环小数	xun huan xiao shu
+循环置换	xun huan zhi huan
+延伸公理	yan shen gong li
+延长	yan chang
+严格单调	yan ge dan diao
+严格单调函数	yan ge dan diao han shu
+严格递减	yan ge di jian
+严格递增	yan ge di zeng
+沿径分量	yan jing fen liang
+演算	yan suan
+演绎	yan yi
+演绎定理	yan yi ding li
+演绎推理	yan yi tui li
+验算	yan suan
+验证	yan zheng
+仰角	yang jiao
+样本	yang ben
+样本空间	yang ben kong jian
+样本平均数	yang ben ping jun shu
+鹞形	yao xing
+叶戈罗夫定理	ye ge luo fu ding li
+叶结点	ye jie dian
+捙接框	ye jie kuang
+一般解	yi ban jie
+一般式	yi ban shi
+一次	yi ci
+一次不等式	yi ci bu deng shi
+一次的	yi ci de
+一次方程	yi ci fang cheng
+一对一函数	yi dui yi han shu
+一个原象	yi ge yuan xiang
+一贯的	yi guan de
+一角形	yi jiao xing
+一阶导数	yi jie dao shu
+一阶导数试验法	yi jie dao shu shi yan fa
+一阶微分方程	yi jie wei fen fang cheng
+一维空间	yi wei kong jian
+一一对应	yi yi dui ying
+一一映射	yi yi ying she
+一元方程	yi yuan fang cheng
+一元一次不等式	yi yuan yi ci bu deng shi
+一元一次不等式组	yi yuan yi ci bu deng shi zu
+一元一次方程	yi yuan yi ci fang cheng
+一元运算	yi yuan yun suan
+一致	yi zhi
+移项	yi xiang
+已知	yi zhi
+以图样表达	yi tu yang biao da
+异类项	yi lei xiang
+译码	yi ma
+因式	yin shi
+因式定理	yin shi ding li
+因式分解	yin shi fen jie
+因式分解法	yin shi fen jie fa
+因子	yin zi
+因子定理	yin zi ding li
+因子分解	yin zi fen jie
+引理	yin li
+隐定义	yin ding yi
+隐函数	yin han shu
+隐函数定理	yin han shu ding li
+隐求导法	yin qiu dao fa
+盈利	ying li
+盈利百分率	ying li bai fen lv
+应变	ying bian
+应变量	ying bian liang
+应变数	ying bian shu
+应用题	ying yong ti
+映成函数	ying cheng han shu
+映入	ying ru
+映上	ying shang
+映射	ying she
+映射的乘积	ying she de cheng ji
+映射的复合	ying she de fu he
+映射构合	ying she gou he
+永假式	yong jia shi
+永真式	yong zhen shi
+用微分逼近	yong wei fen bi jin
+优弓形	you gong xing
+优弧	you hu
+优角	you jiao
+优扇形	you shan xing
+尤拉公式	you la gong shi
+由向量组张成的线性子空间	you xiang liang zu zhang cheng de xian xing zi kong jian
+友谊定理	you yi ding li
+有符号数	you fu hao shu
+有关图形上的附属物	you guan tu xing shang de fu shu wu
+有界的	you jie de
+有界格	you jie ge
+有界函数	you jie han shu
+有界序列	you jie xu lie
+有尽小数	you jin xiao shu
+有孔版	you kong ban
+有理代换法	you li dai huan fa
+有理根定理	you li gen ding li
+有理函数	you li han shu
+有理化	you li hua
+有理式	you li shi
+有理数	you li shu
+有理数式	you li shu shi
+有理数指数	you li shu zhi shu
+有上界的	you shang jie de
+有下界的	you xia jie de
+有限	you xian
+有限概率空间	you xian gai lv kong jian
+有限级数	you xian ji shu
+有限集	you xian ji
+有限简单群分类	you xian jian dan qun fen lei
+有限群	you xian qun
+有限维向量空间	you xian wei xiang liang kong jian
+有限序列	you xian xu lie
+有限总体	you xian zong ti
+有向角	you xiang jiao
+有向数	you xiang shu
+有向图	you xiang tu
+有向线段	you xiang xian duan
+有向直线	you xiang zhi xian
+有效公式	you xiao gong shi
+有效估计量	you xiao gu ji liang
+有效数字	you xiao shu zi
+有效性	you xiao xing
+有序n配列	you xu n pei lie
+有序n元	you xu n yuan
+有序对	you xu dui
+有序关系	you xu guan xi
+有序集	you xu ji
+有序三配列	you xu san pei lie
+有序三元	you xu san yuan
+有序三元组	you xu san yuan zu
+有序树	you xu shu
+有序数对	you xu shu dui
+有意义的	you yi yi de
+有阴影部分	you yin ying bu fen
+有噪信道编码定理	you zao xin dao bian ma ding li
+右导数	you dao shu
+右方极限	you fang ji xian
+右极限	you ji xian
+右连续	you lian xu
+右陪集	you pei ji
+右手系	you shou xi
+诱导运算	you dao yun suan
+余割	yu ge
+余函数	yu han shu
+余角	yu jiao
+余切	yu qie
+余切定理	yu qie ding li
+余式	yu shi
+余式定理	yu shi ding li
+余数	yu shu
+余维数	yu wei shu
+余弦	yu xian
+余弦定理	yu xian ding li
+余弦公式	yu xian gong shi
+余弦函数	yu xian han shu
+余项	yu xiang
+余因式	yu yin shi
+余因子	yu yin zi
+余子式	yu zi shi
+宇集	yu ji
+语句	yu ju
+预备知识	yu bei zhi shi
+预期值	yu qi zhi
+元词	yuan ci
+元素	yuan su
+原点	yuan dian
+原方程	yuan fang cheng
+原函数	yuan han shu
+原始的	yuan shi de
+原始分	yuan shi fen
+原始数据	yuan shi shu ju
+原始条件	yuan shi tiao jian
+原象	yuan xiang
+圆瓣图	yuan ban tu
+圆的	yuan de
+圆规	yuan gui
+圆规作图	yuan gui zuo tu
+圆函数	yuan han shu
+圆幂定理	yuan mi ding li
+圆内接四边形	yuan nei jie si bian xing
+圆盘法	yuan pan fa
+圆台	yuan tai
+圆系	yuan xi
+圆心	yuan xin
+圆心角	yuan xin jiao
+圆形	yuan xing
+圆形排列	yuan xing pai lie
+圆周	yuan zhou
+圆周角	yuan zhou jiao
+圆周率	yuan zhou lv
+圆周运动	yuan zhou yun dong
+圆柱	yuan zhu
+圆柱体	yuan zhu ti
+圆柱形的	yuan zhu xing de
+圆柱坐标	yuan zhu zuo biao
+圆锥	yuan zhui
+圆锥摆	yuan zhui bai
+圆锥曲　	yuan zhui qu 　
+圆锥曲线	yuan zhui qu xian
+圆族	yuan zu
+约束	yue shu
+约束条件	yue shu tiao jian
+匀加速度	yun jia su du
+匀速度	yun su du
+匀速率	yun su lv
+匀速运动	yun su yun dong
+运筹学建模	yun chou xue jian mo
+运行时间	yun xing shi jian
+运输网络	yun shu wang luo
+运算	yun suan
+运算表	yun suan biao
+运算符	yun suan fu
+蕴含	yun han
+蕴含式	yun han shi
+蕴涵	yun han
+蕴涵式	yun han shi
+杂凑函数	za cou han shu
+再循环	zai xun huan
+在区间之连续性	zai qu jian zhi lian xu xing
+在一点处之连续性	zai yi dian chu zhi lian xu xing
+择一假设	ze yi jia she
+增广矩阵	zeng guang ju zhen
+增函数	zeng han shu
+增加	zeng jia
+增量	zeng liang
+增益	zeng yi
+增益率	zeng yi lv
+增长	zeng zhang
+增长因子	zeng zhang yin zi
+增值容量	zeng zhi rong liang
+詹姆斯定理	zhan mu si ding li
+展开	zhan kai
+展开式	zhan kai shi
+展开图	zhan kai tu
+展式	zhan shi
+辗转相除法	zhan zhuan xiang chu fa
+张力	zhang li
+长除法	chang chu fa
+长度	chang du
+长方体	chang fang ti
+长方形	chang fang xing
+长轴	chang zhou
+折旧	zhe jiu
+折扣	zhe kou
+折线统计图	zhe xian tong ji tu
+折线图	zhe xian tu
+着色多项式	zhuo se duo xiang shi
+真分数	zhen fen shu
+真确解	zhen que jie
+真确性	zhen que xing
+真值	zhen zhi
+真值表	zhen zhi biao
+真子集	zhen zi ji
+振动	zhen dong
+振动收敛性	zhen dong shou lian xing
+振幅	zhen fu
+整除性	zheng chu xing
+整方根	zheng fang gen
+整数	zheng shu
+整数部份	zheng shu bu fen
+整数解	zheng shu jie
+整数值	zheng shu zhi
+整数指数	zheng shu zhi shu
+整体	zheng ti
+整体极大值	zheng ti ji da zhi
+整体极小值	zheng ti ji xiao zhi
+正比	zheng bi
+正比例	zheng bi li
+正变	zheng bian
+正常积分	zheng chang ji fen
+正定矩阵	zheng ding ju zhen
+正多边形	zheng duo bian xing
+正多面体	zheng duo mian ti
+正方体	zheng fang ti
+正方形	zheng fang xing
+正方形数	zheng fang xing shu
+正负号函数	zheng fu hao han shu
+正割	zheng ge
+正割定理	zheng ge ding li
+正割法	zheng ge fa
+正规的	zheng gui de
+正规化	zheng gui hua
+正规图	zheng gui tu
+正规着色	zheng gui zhuo se
+正规子群	zheng gui zi qun
+正交	zheng jiao
+正交的	zheng jiao de
+正交分解	zheng jiao fen jie
+正交性	zheng jiao xing
+正交圆	zheng jiao yuan
+正焦弦	zheng jiao xian
+正角	zheng jiao
+正面	zheng mian
+正切	zheng qie
+正切定理	zheng qie ding li
+正切函数	zheng qie han shu
+正射影	zheng she ying
+正十二面体	zheng shi er mian ti
+正数	zheng shu
+正态分布	zheng tai fen bu
+正弦	zheng xian
+正弦定理	zheng xian ding li
+正弦公式	zheng xian gong shi
+正弦函数	zheng xian han shu
+正则表达式	zheng ze biao da shi
+正则图	zheng ze tu
+正整数	zheng zheng shu
+正只曲线	zheng zhi qu xian
+正指数	zheng zhi shu
+证明	zheng ming
+支撑树	zhi cheng shu
+支点	zhi dian
+只端检验	zhi duan jian yan
+只射函数	zhi she han shu
+直尺	zhi chi
+直方图	zhi fang tu
+直观	zhi guan
+直角	zhi jiao
+直角边	zhi jiao bian
+直角二角形	zhi jiao er jiao xing
+直角三角形	zhi jiao san jiao xing
+直角三角形的股	zhi jiao san jiao xing de gu
+直角三角形中的对边	zhi jiao san jiao xing zhong de dui bian
+直角梯形	zhi jiao ti xing
+直角坐	zhi jiao zuo
+直角坐标	zhi jiao zuo biao
+直角坐标平面	zhi jiao zuo biao ping mian
+直角坐标系	zhi jiao zuo biao xi
+直接碰撞	zhi jie peng zhuang
+直接税	zhi jie shui
+直接像	zhi jie xiang
+直径	zhi jing
+直立角柱	zhi li jiao zhu
+直立角锥	zhi li jiao zhui
+直立棱柱	zhi li leng zhu
+直立棱锥	zhi li leng zhui
+直立圆柱	zhi li yuan zhu
+直立圆锥	zhi li yuan zhui
+直线	zhi xian
+直线x轴截距	zhi xian x zhou jie ju
+直线y轴截距	zhi xian y zhou jie ju
+直线的标准方程	zhi xian de biao zhun fang cheng
+直线的参数方程	zhi xian de can shu fang cheng
+直线的方向系数	zhi xian de fang xiang xi shu
+直线的方向向量	zhi xian de fang xiang xiang liang
+直线的两点式方程	zhi xian de liang dian shi fang cheng
+直线的斜截式	zhi xian de xie jie shi
+直线的一般方程	zhi xian de yi ban fang cheng
+直线方程	zhi xian fang cheng
+直线图像	zhi xian tu xiang
+直线图形	zhi xian tu xing
+直线系	zhi xian xi
+直线斜率	zhi xian xie lv
+直线运动	zhi xian yun dong
+直线族	zhi xian zu
+值域	zhi yu
+指数	zhi shu
+指数定律	zhi shu ding lv
+指数函数	zhi shu han shu
+指数函数之导数	zhi shu han shu zhi dao shu
+指数级	zhi shu ji
+指数记数法	zhi shu ji shu fa
+指数阶	zhi shu jie
+指数律	zhi shu lv
+指数率	zhi shu lv
+指针	zhi zhen
+至最接近之	zhi zui jie jin zhi
+制表	zhi biao
+质点	zhi dian
+质量	zhi liang
+质量中心	zhi liang zhong xin
+质数	zhi shu
+质因素	zhi yin su
+质因子	zhi yin zi
+秩-零化度定理	zhi ling hua du ding li
+置换	zhi huan
+置换的符号	zhi huan de fu hao
+置信度	zhi xin du
+置信极限	zhi xin ji xian
+置信区间	zhi xin qu jian
+置信水平	zhi xin shui ping
+置信系数	zhi xin xi shu
+中垂线　	zhong chui xian 　
+中点	zhong dian
+中点定理	zhong dian ding li
+中点公式	zhong dian gong shi
+中国剩余定理	zhong guo sheng yu ding li
+中间值定理	zhong jian zhi ding li
+中均差	zhong jun cha
+中数	zhong shu
+中位数	zhong wei shu
+中位线	zhong wei xian
+中线	zhong xian
+中线　	zhong xian 　
+中线定理	zhong xian ding li
+中心	zhong xin
+中心极限定理	zhong xin ji xian ding li
+中序遍历	zhong xu bian li
+中值定理	zhong zhi ding li
+终边	zhong bian
+终点	zhong dian
+终端框	zhong duan kuang
+终端速度	zhong duan su du
+钟形图	zhong xing tu
+众数	zhong shu
+众数组	zhong shu zu
+重复排列	chong fu pai lie
+重复试验	chong fu shi yan
+重合	chong he
+重积分	zhong ji fen
+重力	zhong li
+重力加速度	zhong li jia su du
+重数	zhong shu
+重心	zhong xin
+周角	zhou jiao
+周界	zhou jie
+周期	zhou qi
+周期函数	zhou qi han shu
+周期性	zhou qi xing
+周游	zhou you
+周长	zhou chang
+周转	zhou zhuan
+轴截距	zhou jie ju
+珠算	zhu suan
+逐次逼近法	zhu ci bi jin fa
+逐次代换法	zhu ci dai huan fa
+逐次导数	zhu ci dao shu
+逐次积分	zhu ci ji fen
+逐次调替法	zhu ci diao ti fa
+逐次微分法	zhu ci wei fen fa
+逐项求导法	zhu xiang qiu dao fa
+主变量	zhu bian liang
+主对角线	zhu dui jiao xian
+主角	zhu jue
+主项	zhu xiang
+主项变换	zhu xiang bian huan
+主要的	zhu yao de
+主元	zhu yuan
+主值	zhu zhi
+主值区间	zhu zhi qu jian
+主轴	zhu zhou
+主轴定理	zhu zhou ding li
+驻点	zhu dian
+柱面坐标	zhu mian zuo biao
+柱形统计图	zhu xing tong ji tu
+转换	zhuan huan
+转矩	zhuan ju
+转向点	zhuan xiang dian
+转折点	zhuan zhe dian
+转置	zhuan zhi
+转置矩阵	zhuan zhi ju zhen
+赚率	zhuan lv
+锥台	zhui tai
+准确度	zhun que du
+准确解	zhun que jie
+准确至	zhun que zhi
+准线	zhun xian
+准则	zhun ze
+子半群	zi ban qun
+子格	zi ge
+子含么半群	zi han me ban qun
+子行列式	zi hang lie shi
+子集	zi ji
+子矩阵	zi ju zhen
+子列	zi lie
+子女结点	zi nv jie dian
+子群	zi qun
+子式	zi shi
+子式的代数余子式	zi shi de dai shu yu zi shi
+子式的余子式	zi shi de yu zi shi
+子树	zi shu
+子图	zi tu
+自变	zi bian
+自变量	zi bian liang
+自变数	zi bian shu
+自反闭包	zi fan bi bao
+自反的	zi fan de
+自反关系	zi fan guan xi
+自反性	zi fan xing
+自回路	zi hui lu
+自然对数	zi ran dui shu
+自然对数函数	zi ran dui shu han shu
+自然基	zi ran ji
+自然满射	zi ran man she
+自然数	zi ran shu
+自然同态	zi ran tong tai
+自然指数函数	zi ran zhi shu han shu
+自由度	zi you du
+自由矢量	zi you shi liang
+自由位置量	zi you wei zhi liang
+自由下坠	zi you xia zhui
+自由向量	zi you xiang liang
+自右乘	zi you cheng
+自左乘	zi zuo cheng
+字典序	zi dian xu
+字符串	zi fu chuan
+字母	zi mu
+字母表	zi mu biao
+字母系数	zi mu xi shu
+综合棒形图	zong he bang xing tu
+综合除法	zong he chu fa
+总概率	zong gai lv
+总和	zong he
+总计	zong ji
+总数	zong shu
+总体	zong ti
+总体平均	zong ti ping jun
+纵行	zong xing
+纵线　	zong xian 　
+纵坐标	zong zuo biao
+阻尼振动	zu ni zhen dong
+组合	zu he
+组界	zu jie
+组距	zu ju
+组区间	zu qu jian
+组限	zu xian
+组织图	zu zhi tu
+组中点	zu zhong dian
+祖暅原理	zu geng yuan li
+最大公因子	zui da gong yin zi
+最大静摩擦	zui da jing mo ca
+最大绝对误差	zui da jue dui wu cha
+最大流	zui da liu
+最大流最小割定理	zui da liu zui xiao ge ding li
+最大模原理	zui da mo yuan li
+最大匹配	zui da pi pei
+最大项	zui da xiang
+最大斜率　	zui da xie lv 　
+最大斜率的角	zui da xie lv de jiao
+最大斜率的直　	zui da xie lv de zhi 　
+最大元	zui da yuan
+最大值	zui da zhi
+最低公倍式	zui di gong bei shi
+最高公因式	zui gao gong yin shi
+最高公因子	zui gao gong yin zi
+最佳方法	zui jia fang fa
+最佳化问题	zui jia hua wen ti
+最佳拟合　	zui jia ni he 　
+最简分数	zui jian fen shu
+最邻近结点	zui lin jin jie dian
+最小二乘法	zui xiao er cheng fa
+最小公倍数	zui xiao gong bei shu
+最小平方法	zui xiao ping fang fa
+最小上界	zui xiao shang jie
+最小生成树	zui xiao sheng cheng shu
+最小值	zui xiao zhi
+最优化	zui you hua
+最优解	zui you jie
+左导数	zuo dao shu
+左方极限	zuo fang ji xian
+左极限	zuo ji xian
+左连续	zuo lian xu
+左手系	zuo shou xi
+作图	zuo tu
+作用力线	zuo yong li xian
+坐标	zuo biao
+坐标几何	zuo biao ji he
+坐标几何学	zuo biao ji he xue
+坐标平面	zuo biao ping mian
+坐标系	zuo biao xi
+坐标系系定理	zuo biao xi xi ding li
+坐标轴	zuo biao zhou
+坐标轴的变换	zuo biao zhou de bian huan
