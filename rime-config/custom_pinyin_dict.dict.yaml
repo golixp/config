@@ -19,7 +19,7 @@ import_tables:
   - e_pinyin.animal    # 动物
   - e_pinyin.animal_birdPlus    # 动物(鸟类扩展)
   - e_pinyin.food    # 食物
-  - e_pinyin.math    # 数学
+  # - e_pinyin.math    # 数学
   - e_pinyin.place_xingzheng    # 地名(行政区域划分)
 
 ...
