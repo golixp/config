@@ -12,14 +12,13 @@ import_tables:
   # - custom_top
 
   # 明月拼音官方扩展词典
-  - luna_pinyin.hanyu    # 汉语词典
+  # - luna_pinyin.hanyu    # 汉语词典
   - luna_pinyin.poetry    # 古诗词
 
   # 第三方词典 https://github.com/ua0au/Rime-dict
   - e_pinyin.animal    # 动物
   - e_pinyin.animal_birdPlus    # 动物(鸟类扩展)
   - e_pinyin.food    # 食物
-  # - e_pinyin.math    # 数学
   - e_pinyin.place_xingzheng    # 地名(行政区域划分)
 
 ...
